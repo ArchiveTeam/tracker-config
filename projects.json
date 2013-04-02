@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.0.13"
   },
-  "auto_project": "URLTeam",
+  "auto_project": "yahoo-messages",
   "projects": [
     {
       "name":        "yahoo-messages",
@@ -17,7 +17,7 @@
     {
       "name":        "posterous",
       "title":       "Posterous",
-      "description": "Posterous is closing April, 30th, 2013. NOTE: Posterous will ban you. Ask on EFnet IRC, #archiveteam, before running this.",
+      "description": "Posterous is closing April, 30th, 2013.",
       "repository":  "https://github.com/ArchiveTeam/posterous-grab.git",
       "logo":        "http://archiveteam.org/images/6/6c/Posterous_logo.png",
       "marker_html": "<img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' />",
