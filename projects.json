@@ -2,8 +2,18 @@
   "warrior": {
     "seesaw_version": "0.0.4"
   },
-  "auto_project": null,
+  "auto_project": "cityofheroes",
   "projects": [
+    {
+      "name":        "cityofheroes",
+      "title":       "City of Heroes Forums",
+      "description": "The City of Heroes forums may disappear, so we're making a copy.",
+      "repository":  "https://github.com/ArchiveTeam/cityofheroes-grab.git",
+      "logo":        "http://archiveteam.org/images/thumb/2/28/Cityofheroes-logo.png/120px-Cityofheroes-logo.png",
+      "lat_lng":     [30.3389,-97.7707],
+      "marker_html": "<img src='http://archiveteam.org/images/thumb/2/28/Cityofheroes-logo.png/120px-Cityofheroes-logo.png' alt='Cinch.FM' width='120' height='69' />",
+      "deadline":    "2012-11-30T23:59:59Z"
+    }
   ]
 }
 
