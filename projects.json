@@ -1,28 +1,9 @@
 {
   "warrior": {
-    "seesaw_version": "0.0.11"
+    "seesaw_version": "0.0.12"
   },
-  "auto_project": "weblognl",
+  "auto_project": "punchfork",
   "projects": [
-    {
-      "name":        "weblognl",
-      "title":       "Weblog.nl",
-      "description": "Weblog.nl is closing.",
-      "repository":  "https://github.com/ArchiveTeam/weblognl-grab.git",
-      "logo":        "http://archiveteam.org/images/thumb/a/a5/Weblog.nl-logo.png/120px-Weblog.nl-logo.png",
-      "marker_html": "<img src='http://archiveteam.org/images/thumb/a/a5/Weblog.nl-logo.png/120px-Weblog.nl-logo.png' alt='Webshots' width='120' height='32' />",
-      "deadline":    "2013-03-01T23:59:59Z",
-      "lat_lng":     [53, -8]
-    },
-    {
-      "name":        "URLTeam",
-      "title":       "URLTeam",
-      "description": "Archiving various URL shorteners",
-      "repository":  "https://github.com/soult/tinyback.git",
-      "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
-      "lat_lng":     [50.4773, 12.3692],
-      "marker_html": "URLTeam"
-    },
     {
       "name":        "punchfork",
       "title":       "Punchfork",
@@ -31,7 +12,39 @@
       "logo":        "http://archiveteam.org/images/4/45/Punchfork_icon.png",
       "marker_html": "<img src='http://archiveteam.org/images/4/45/Punchfork_icon.png' alt='Webshots' width='73' height='73' />",
       "deadline":    "2013-03-14T23:59:59Z",
-      "lat_lng":     [37.3394, -121.895]
+      "lat_lng":     [37.3394, -121.895],
+      "leaderboard": "http://tracker.archiveteam.org/punchfork/"
+    },
+    {
+      "name":        "URLTeam",
+      "title":       "URLTeam",
+      "description": "Archiving various URL shorteners",
+      "repository":  "https://github.com/soult/tinyback.git",
+      "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
+      "lat_lng":     [50.4773, 12.3692],
+      "marker_html": "URLTeam",
+      "leaderboard": "http://tracker.tinyarchive.org/v1/"
+    },
+    {
+      "name":        "xanga",
+      "title":       "Xanga",
+      "description": "Xanga is getting old. We investigate.",
+      "repository":  "https://github.com/ArchiveTeam/xanga-grab.git",
+      "logo":        "http://archiveteam.org/images/4/4d/Xanga-logo-main.gif",
+      "marker_html": "<img src='http://archiveteam.org/images/4/4d/Xanga-logo-main.gif' alt='Webshots' width='150' height='75' />",
+      "host":        "www.xanga.com",
+      "leaderboard": "http://tracker.archiveteam.org/xanga/"
+    },
+    {
+      "name":        "weblognl",
+      "title":       "Weblog.nl",
+      "description": "Weblog.nl is closing.",
+      "repository":  "https://github.com/ArchiveTeam/weblognl-grab.git",
+      "logo":        "http://archiveteam.org/images/thumb/a/a5/Weblog.nl-logo.png/120px-Weblog.nl-logo.png",
+      "marker_html": "<img src='http://archiveteam.org/images/thumb/a/a5/Weblog.nl-logo.png/120px-Weblog.nl-logo.png' alt='Webshots' width='120' height='32' />",
+      "deadline":    "2013-03-01T23:59:59Z",
+      "lat_lng":     [53, -8],
+      "leaderboard": "http://tracker.archiveteam.org/weblognl/"
     }
   ]
 }
