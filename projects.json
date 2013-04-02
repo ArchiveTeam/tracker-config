@@ -26,16 +26,6 @@
       "leaderboard": "http://tracker.archiveteam.org/posterous/"
     },
     {
-      "name":        "yahoo-messages",
-      "title":       "Yahoo! Messages",
-      "description": "We're finishing the last bits of Yahoo! Messages. Please choose the ArchiveTeam's Choice project instead.",
-      "repository":  "https://github.com/ArchiveTeam/yahoomessages-grab.git",
-      "logo":        "http://archiveteam.org/images/8/85/Yahoo_logo_us.png",
-      "marker_html": "<a href='http://tracker.archiveteam.org/yahoo-messages/'><img src='http://archiveteam.org/images/8/85/Yahoo_logo_us.png' alt='Yahoo! Messages' width='202' height='50' /></a>",
-      "host":        "messages.yahoo.com",
-      "leaderboard": "http://tracker.archiveteam.org/yahoo-messages/"
-    },
-    {
       "name":        "URLTeam",
       "title":       "URLTeam",
       "description": "Archiving various URL shorteners",
