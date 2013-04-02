@@ -5,14 +5,14 @@
   "auto_project": "URLTeam",
   "projects": [
     {
-      "name":        "storylane",
-      "title":       "Storylane",
-      "description": "Storylane is bought by Facebook and closing.",
-      "repository":  "https://github.com/ArchiveTeam/storylane-grab.git",
-      "logo":        "http://archiveteam.org/images/2/2b/Storylane-logo.png",
-      "marker_html": "<img src='http://archiveteam.org/images/2/2b/Storylane-logo.png' alt='Storylane' width='90' height='90' />",
-      "host":        "www.storylane.com",
-      "leaderboard": "http://tracker.archiveteam.org/storylane/"
+      "name":        "yahoo-messages",
+      "title":       "Yahoo! Messages",
+      "description": "Yahoo! Messages is closing April 1st, 2013.",
+      "repository":  "https://github.com/ArchiveTeam/yahoomessages-grab.git",
+      "logo":        "http://archiveteam.org/images/8/85/Yahoo_logo_us.png",
+      "marker_html": "<img src='http://archiveteam.org/images/8/85/Yahoo_logo_us.png' alt='Yahoo! Messages' width='202' height='50' />",
+      "host":        "messages.yahoo.com",
+      "leaderboard": "http://tracker.archiveteam.org/yahoo-messages/"
     },
     {
       "name":        "posterous",
