@@ -10,10 +10,21 @@
       "description": "Punchfork is closing",
       "repository":  "https://github.com/ArchiveTeam/punchfork-grab.git",
       "logo":        "http://archiveteam.org/images/4/45/Punchfork_icon.png",
-      "marker_html": "<img src='http://archiveteam.org/images/4/45/Punchfork_icon.png' alt='Webshots' width='73' height='73' />",
+      "marker_html": "<img src='http://archiveteam.org/images/4/45/Punchfork_icon.png' alt='Punchfork' width='73' height='73' />",
       "deadline":    "2013-03-14T23:59:59Z",
       "lat_lng":     [37.3394, -121.895],
       "leaderboard": "http://tracker.archiveteam.org/punchfork/"
+    },
+    {
+      "name":        "posterous",
+      "title":       "Posterous",
+      "description": "Posterous is closing April, 30th, 2013. NOTE: Posterous will ban you. Ask on EFnet IRC, #archiveteam, before running this.",
+      "repository":  "https://github.com/ArchiveTeam/posterous-grab.git",
+      "logo":        "http://archiveteam.org/images/6/6c/Posterous_logo.png",
+      "marker_html": "<img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' />",
+      "deadline":    "2013-04-30T23:59:59Z",
+      "host":        "www.posterous.com",
+      "leaderboard": "http://tracker.archiveteam.org/posterous/"
     },
     {
       "name":        "URLTeam",
