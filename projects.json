@@ -2,18 +2,8 @@
   "warrior": {
     "seesaw_version": "0.0.4"
   },
-  "auto_project": "cinch",
+  "auto_project": null,
   "projects": [
-    {
-      "name":        "cinch",
-      "title":       "Cinch.FM",
-      "description": "Cinch.FM will remove all data on October 20, 2012.",
-      "repository":  "https://github.com/ArchiveTeam/cinch-grab.git",
-      "logo":        "http://archiveteam.org/images/thumb/6/6e/Cinch-logo.png/120px-Cinch-logo.png",
-      "lat_lng":     [39.0437,-77.4875],
-      "marker_html": "<img src='http://archiveteam.org/images/thumb/6/6e/Cinch-logo.png/120px-Cinch-logo.png' alt='Cinch.FM' width='120' height='63' />",
-      "deadline":    "2012-10-20T23:59:59Z"
-    }
   ]
 }
 
