@@ -2,8 +2,17 @@
   "warrior": {
     "seesaw_version": "0.0.11"
   },
-  "auto_project": "URLTeam",
+  "auto_project": "yahooblog",
   "projects": [
+    {
+      "name":        "yahooblog",
+      "title":       "Yahoo Blogs (Vietnamese)",
+      "description": "Yahoo might be closing their Vietnamese blogging service.",
+      "repository":  "https://github.com/ArchiveTeam/yahooblog-grab.git",
+      "logo":        "http://archiveteam.org/images/thumb/a/a2/Yahoo-logo.png/120px-Yahoo-logo.png",
+      "marker_html": "<img src='http://archiveteam.org/images/thumb/a/a2/Yahoo-logo.png/120px-Yahoo-logo.png' alt='Webshots' width='120' height='70' />",
+      "deadline":    "2013-01-13T23:59:59Z"
+    },
     {
       "name":        "URLTeam",
       "title":       "URLTeam",
@@ -12,6 +21,16 @@
       "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
       "lat_lng":     [50.4773, 12.3692],
       "marker_html": "URLTeam"
+    },
+    {
+      "name":        "punchfork",
+      "title":       "Punchfork",
+      "description": "Punchfork is closing",
+      "repository":  "https://github.com/ArchiveTeam/punchfork-grab.git",
+      "logo":        "http://archiveteam.org/images/4/45/Punchfork_icon.png",
+      "marker_html": "<img src='http://archiveteam.org/images/4/45/Punchfork_icon.png' alt='Webshots' width='73' height='73' />",
+      "deadline":    "2013-03-14T23:59:59Z",
+      "lat_lng":     [37.3394, -121.895]
     }
   ]
 }
