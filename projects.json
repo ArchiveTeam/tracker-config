@@ -1,9 +1,29 @@
 {
   "warrior": {
-    "seesaw_version": "0.0.4"
+    "seesaw_version": "0.0.10"
   },
-  "auto_project": "cityofheroes",
+  "auto_project": "webshots",
   "projects": [
+    {
+      "name":        "webshots",
+      "title":       "Webshots",
+      "description": "Webshots is changing its business model, so we archive the member photos.",
+      "repository":  "https://github.com/ArchiveTeam/webshots-grab.git",
+      "logo":        "http://archiveteam.org/images/3/36/Webshots-logo-crop.png",
+      "lat_lng":     [41.4411,-81.7417],
+      "marker_html": "<img src='http://archiveteam.org/images/thumb/archive/3/36/20121004193832%21Webshots-logo-crop.png/120px-Webshots-logo-crop.png' alt='Webshots' width='120' height='20' />",
+      "deadline":    "2012-12-01T23:59:59Z"
+    },
+    {
+      "name":        "dailybooth",
+      "title":       "DailyBooth",
+      "description": "DailyBooth is closing. We archive.",
+      "repository":  "https://github.com/ArchiveTeam/dailybooth-grab.git",
+      "logo":        "http://archiveteam.org/images/2/2f/Dailybooth-logo.png",
+      "lat_lng":     [29.3884, -98.5311],
+      "marker_html": "<img src='http://archiveteam.org/images/2/2f/Dailybooth-logo.png' alt='Webshots' width='58' height='57' />",
+      "deadline":    "2012-12-31T23:59:59Z"
+    },
     {
       "name":        "cityofheroes",
       "title":       "City of Heroes Forums",
@@ -15,14 +35,23 @@
       "deadline":    "2012-11-30T23:59:59Z"
     },
     {
-      "name":        "webshots",
-      "title":       "Webshots",
-      "description": "Webshots is changing its business model, so we archive the member photos.",
-      "repository":  "https://github.com/ArchiveTeam/webshots-grab.git",
+      "name":        "webshots-username-checker",
+      "title":       "Webshots user discovery",
+      "description": "Help to discover valid Webshots usernames.",
+      "repository":  "https://github.com/ArchiveTeam/webshots-username-checker.git",
       "logo":        "http://archiveteam.org/images/3/36/Webshots-logo-crop.png",
       "lat_lng":     [41.4411,-81.7417],
       "marker_html": "<img src='http://archiveteam.org/images/thumb/archive/3/36/20121004193832%21Webshots-logo-crop.png/120px-Webshots-logo-crop.png' alt='Webshots' width='120' height='20' />",
       "deadline":    "2012-12-01T23:59:59Z"
+    },
+    {
+      "name":        "URLTeam",
+      "title":       "URLTeam",
+      "description": "Archiving various URL shorteners",
+      "repository":  "https://github.com/soult/tinyback.git",
+      "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
+      "lat_lng":     [50.4773, 12.3692],
+      "marker_html": "URLTeam"
     }
   ]
 }
