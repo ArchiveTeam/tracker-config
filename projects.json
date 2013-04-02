@@ -1,19 +1,9 @@
 {
   "warrior": {
-    "seesaw_version": "0.0.10"
+    "seesaw_version": "0.0.11"
   },
-  "auto_project": "webshots",
+  "auto_project": "dailybooth",
   "projects": [
-    {
-      "name":        "webshots",
-      "title":       "Webshots",
-      "description": "Webshots is changing its business model, so we archive the member photos.",
-      "repository":  "https://github.com/ArchiveTeam/webshots-grab.git",
-      "logo":        "http://archiveteam.org/images/3/36/Webshots-logo-crop.png",
-      "lat_lng":     [41.4411,-81.7417],
-      "marker_html": "<img src='http://archiveteam.org/images/thumb/archive/3/36/20121004193832%21Webshots-logo-crop.png/120px-Webshots-logo-crop.png' alt='Webshots' width='120' height='20' />",
-      "deadline":    "2012-12-01T23:59:59Z"
-    },
     {
       "name":        "dailybooth",
       "title":       "DailyBooth",
@@ -21,28 +11,18 @@
       "repository":  "https://github.com/ArchiveTeam/dailybooth-grab.git",
       "logo":        "http://archiveteam.org/images/2/2f/Dailybooth-logo.png",
       "lat_lng":     [29.3884, -98.5311],
-      "marker_html": "<img src='http://archiveteam.org/images/2/2f/Dailybooth-logo.png' alt='Webshots' width='58' height='57' />",
+      "marker_html": "<img src='http://archiveteam.org/images/2/2f/Dailybooth-logo.png' alt='DailyBooth' width='58' height='57' />",
       "deadline":    "2012-12-31T23:59:59Z"
     },
     {
-      "name":        "cityofheroes",
-      "title":       "City of Heroes Forums",
-      "description": "The City of Heroes forums may disappear, so we're making a copy.",
-      "repository":  "https://github.com/ArchiveTeam/cityofheroes-grab.git",
-      "logo":        "http://archiveteam.org/images/thumb/2/28/Cityofheroes-logo.png/120px-Cityofheroes-logo.png",
-      "lat_lng":     [30.3389,-97.7707],
-      "marker_html": "<img src='http://archiveteam.org/images/thumb/2/28/Cityofheroes-logo.png/120px-Cityofheroes-logo.png' alt='Cinch.FM' width='120' height='69' />",
-      "deadline":    "2012-11-30T23:59:59Z"
-    },
-    {
-      "name":        "webshots-username-checker",
-      "title":       "Webshots user discovery",
-      "description": "Help to discover valid Webshots usernames.",
-      "repository":  "https://github.com/ArchiveTeam/webshots-username-checker.git",
-      "logo":        "http://archiveteam.org/images/3/36/Webshots-logo-crop.png",
-      "lat_lng":     [41.4411,-81.7417],
-      "marker_html": "<img src='http://archiveteam.org/images/thumb/archive/3/36/20121004193832%21Webshots-logo-crop.png/120px-Webshots-logo-crop.png' alt='Webshots' width='120' height='20' />",
-      "deadline":    "2012-12-01T23:59:59Z"
+      "name":        "github",
+      "title":       "GitHub downloads",
+      "description": "GitHub is disabling its Downloads section. We make a copy.",
+      "repository":  "https://github.com/ArchiveTeam/github-download-grab.git",
+      "logo":        "http://archiveteam.org/images/thumb/f/fd/Github-logo-v7.png/120px-Github-logo-v7.png",
+      "lat_lng":     [29.4889, -98.3987],
+      "marker_html": "<img src='http://archiveteam.org/images/thumb/f/fd/Github-logo-v7.png/120px-Github-logo-v7.png' alt='GitHub' width='120' height='51' />",
+      "deadline":    "2013-03-10T23:59:59Z"
     },
     {
       "name":        "URLTeam",
