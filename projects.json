@@ -2,17 +2,17 @@
   "warrior": {
     "seesaw_version": "0.0.13"
   },
-  "auto_project": "yahoo-messages",
+  "auto_project": "posterous",
   "projects": [
     {
-      "name":        "yahoo-messages",
-      "title":       "Yahoo! Messages",
-      "description": "Yahoo! Messages is closing April 1st, 2013.",
-      "repository":  "https://github.com/ArchiveTeam/yahoomessages-grab.git",
-      "logo":        "http://archiveteam.org/images/8/85/Yahoo_logo_us.png",
-      "marker_html": "<img src='http://archiveteam.org/images/8/85/Yahoo_logo_us.png' alt='Yahoo! Messages' width='202' height='50' />",
-      "host":        "messages.yahoo.com",
-      "leaderboard": "http://tracker.archiveteam.org/yahoo-messages/"
+      "name":        "formspring",
+      "title":       "Formspring",
+      "description": "Formspring is closing April 15, 2013.",
+      "repository":  "https://github.com/ArchiveTeam/formspring-grab.git",
+      "logo":        "http://archiveteam.org/images/a/a0/Formspring-logo258x62_blue.png",
+      "marker_html": "<a href='http://tracker.archiveteam.org/formspring/'><img src='http://archiveteam.org/images/a/a0/Formspring-logo258x62_blue.png' alt='Formspring' width='258' height='62' /></a>",
+      "host":        "www.formspring.me",
+      "leaderboard": "http://tracker.archiveteam.org/formspring/"
     },
     {
       "name":        "posterous",
@@ -20,10 +20,20 @@
       "description": "Posterous is closing April, 30th, 2013.",
       "repository":  "https://github.com/ArchiveTeam/posterous-grab.git",
       "logo":        "http://archiveteam.org/images/6/6c/Posterous_logo.png",
-      "marker_html": "<img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' />",
+      "marker_html": "<a href='http://tracker.archiveteam.org/posterous/'><img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' /></a>",
       "deadline":    "2013-04-30T23:59:59Z",
       "host":        "www.posterous.com",
       "leaderboard": "http://tracker.archiveteam.org/posterous/"
+    },
+    {
+      "name":        "yahoo-messages",
+      "title":       "Yahoo! Messages",
+      "description": "We're finishing the last bits of Yahoo! Messages. Please choose the ArchiveTeam's Choice project instead.",
+      "repository":  "https://github.com/ArchiveTeam/yahoomessages-grab.git",
+      "logo":        "http://archiveteam.org/images/8/85/Yahoo_logo_us.png",
+      "marker_html": "<a href='http://tracker.archiveteam.org/yahoo-messages/'><img src='http://archiveteam.org/images/8/85/Yahoo_logo_us.png' alt='Yahoo! Messages' width='202' height='50' /></a>",
+      "host":        "messages.yahoo.com",
+      "leaderboard": "http://tracker.archiveteam.org/yahoo-messages/"
     },
     {
       "name":        "URLTeam",
@@ -31,10 +41,11 @@
       "description": "Archiving various URL shorteners",
       "repository":  "https://github.com/soult/tinyback.git",
       "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
+      "marker_html": "<a href='http://tracker.tinyarchive.org/v1/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
       "lat_lng":     [50.4773, 12.3692],
-      "marker_html": "URLTeam",
       "leaderboard": "http://tracker.tinyarchive.org/v1/"
-    }
+    },
+    null
   ]
 }
 
