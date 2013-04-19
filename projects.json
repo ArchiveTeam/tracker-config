@@ -26,6 +26,17 @@
       "leaderboard": "http://tracker.archiveteam.org/posterous/"
     },
     {
+      "name":        "upcoming",
+      "title":       "Yahoo! Upcoming (BETA)",
+      "description": "Yahoo! (who else?) is closing Upcoming on April 30, 2013. NOTE: We're still testing this.",
+      "repository":  "https://github.com/ArchiveTeam/yahoo-upcoming-grab.git",
+      "logo":        "http://archiveteam.org/images/1/10/Upcoming_yahoo_com_logo.png",
+      "marker_html": "<a href='http://tracker.archiveteam.org/upcoming/'><img src='http://archiveteam.org/images/1/10/Upcoming_yahoo_com_logo.png' alt='Posterous' width='260' height='58' /></a>",
+      "deadline":    "2013-04-30T23:59:59Z",
+      "host":        "upcoming.yahoo.com",
+      "leaderboard": "http://tracker.archiveteam.org/upcoming/"
+    },
+    {
       "name":        "URLTeam",
       "title":       "URLTeam",
       "description": "Archiving various URL shorteners",
