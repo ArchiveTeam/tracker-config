@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.0.13"
   },
-  "auto_project": "posterous",
+  "auto_project": "formspring",
   "projects": [
     {
       "name":        "formspring",
