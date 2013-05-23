@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.0.13"
   },
-  "auto_project": "formspring",
+  "auto_project": "posterous",
   "projects": [
     {
       "name":        "formspring",
@@ -17,7 +17,7 @@
     {
       "name":        "posterous",
       "title":       "Posterous",
-      "description": "Posterous is closing April, 30th, 2013.",
+      "description": "Posterous closed April, 30th, 2013. (We're still downloading.)",
       "repository":  "https://github.com/ArchiveTeam/posterous-grab.git",
       "logo":        "http://archiveteam.org/images/6/6c/Posterous_logo.png",
       "marker_html": "<a href='http://tracker.archiveteam.org/posterous/'><img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' /></a>",
