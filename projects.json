@@ -35,6 +35,14 @@
       "lat_lng":     [50.4773, 12.3692],
       "leaderboard": "http://tracker.tinyarchive.org/v1/"
     },
+    {
+      "name":        "Xanga",
+      "title":       "Xanga",
+      "description": "Archiving Xanga - DO NOT SELECT",
+      "repository":  "https://github.com/ArchiveTeam/xanga-grab.git",
+      "deadline":    "2013-07-30T23:59:59Z",
+      "leaderboard": "http://tracker.archiveteam.org/xanga/"
+    },
     null
   ]
 }
