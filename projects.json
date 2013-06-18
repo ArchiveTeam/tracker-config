@@ -38,7 +38,7 @@
     {
       "name":        "Xanga",
       "title":       "Xanga",
-      "description": "Archiving Xanga - DO NOT SELECT",
+      "description": "Archiving Xanga, before they go paid...",
       "repository":  "https://github.com/ArchiveTeam/xanga-grab.git",
       "logo":	     "http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png",
       "marker_html": "<a href='tracker.archiveteam.org/xanga/'><img src='http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png' width='120' height='19' /></a>",
