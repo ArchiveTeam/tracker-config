@@ -42,7 +42,7 @@
       "repository":  "https://github.com/ArchiveTeam/xanga-grab.git",
       "logo":	     "http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png",
       "marker_html": "<a href='tracker.archiveteam.org/xanga/'><img src='http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png' width='120' height='19' /></a>",
-      "deadline":    "2013-07-30T23:59:59Z",
+      "deadline":    "2013-07-15T23:59:59Z",
       "leaderboard": "http://tracker.archiveteam.org/xanga/"
     },
     null
