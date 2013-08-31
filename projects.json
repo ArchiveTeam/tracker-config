@@ -15,17 +15,6 @@
       "leaderboard": "http://tracker.archiveteam.org/formspring/"
     },
     {
-      "name":        "posterous",
-      "title":       "Posterous",
-      "description": "Posterous closed April, 30th, 2013. (We're still downloading.)",
-      "repository":  "https://github.com/ArchiveTeam/posterous-grab.git",
-      "logo":        "http://archiveteam.org/images/6/6c/Posterous_logo.png",
-      "marker_html": "<a href='http://tracker.archiveteam.org/posterous/'><img src='http://archiveteam.org/images/6/6c/Posterous_logo.png' alt='Posterous' width='213' height='61' /></a>",
-      "deadline":    "2013-04-30T23:59:59Z",
-      "host":        "www.posterous.com",
-      "leaderboard": "http://tracker.archiveteam.org/posterous/"
-    },
-    {
       "name":        "URLTeam",
       "title":       "URLTeam",
       "description": "Archiving various URL shorteners",
