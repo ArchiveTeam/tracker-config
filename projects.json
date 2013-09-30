@@ -20,9 +20,9 @@
       "description": "Archiving various URL shorteners",
       "repository":  "https://github.com/ArchiveTeam/tinyback.git",
       "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
-      "marker_html": "<a href='http://tracker.tinyarchive.org/v1/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
+      "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
       "lat_lng":     [50.4773, 12.3692],
-      "leaderboard": "http://urlteam.terrywri.st"
+      "leaderboard": "http://urlteam.terrywri.st/"
     },
     null
   ]
