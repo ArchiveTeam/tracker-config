@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.0.13"
   },
-  "auto_project": "Xanga",
+  "auto_project": "formspring",
   "projects": [
     {
       "name":        "formspring",
@@ -22,17 +22,7 @@
       "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
       "marker_html": "<a href='http://tracker.tinyarchive.org/v1/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
       "lat_lng":     [50.4773, 12.3692],
-      "leaderboard": "http://tracker.tinyarchive.org/v1/"
-    },
-    {
-      "name":        "Xanga",
-      "title":       "Xanga",
-      "description": "Archiving Xanga, before they go paid...",
-      "repository":  "https://github.com/ArchiveTeam/xanga-grab.git",
-      "logo":	     "http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png",
-      "marker_html": "<a href='tracker.archiveteam.org/xanga/'><img src='http://parryshen.files.wordpress.com/2011/05/xanga_logo-012208png1.png' width='120' height='19' /></a>",
-      "deadline":    "2013-07-15T23:59:59Z",
-      "leaderboard": "http://tracker.archiveteam.org/xanga/"
+      "leaderboard": "http://urlteam.terrywri.st"
     },
     null
   ]
