@@ -24,7 +24,21 @@
       "lat_lng":     [50.4773, 12.3692],
       "leaderboard": "http://urlteam.terrywri.st/"
     },
-    null
+    {
+     
+        "name": "blooper.tv",
+        "title": "blooper.tv",
+        "description": "Archiving the videos from blip.tv",
+        "repository": "https://github.com/ArchiveTeam/blip.tv-grab-video-only.git",
+        "logo": "http://www.archiveteam.org/images/5/5f/Blip_web_logo.png",
+        "marker_html": "<a href='http://tracker.archiveteam.org/bloopertv/'><img src='http://www.archiveteam.org/images/5/5f/Blip_web_logo.png' width='120' height='19' /></a>",
+        "lat_lng": [
+            50.4773,
+            12.3692
+        ],
+        "leaderboard": "http://tracker.archiveteam.org/bloopertv/"
+     
+    }
   ]
 }
 
