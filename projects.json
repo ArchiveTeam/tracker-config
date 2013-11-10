@@ -38,21 +38,6 @@
         ],
         "leaderboard": "http://tracker.archiveteam.org/bloopertv/"
      
-    },
-    {
-
-        "name": "hyvesd",
-        "title": "Hyves Discovery",
-        "description": "Username discovery for hyves.nl",
-        "repository": "https://github.com/ArchiveTeam/hyves-username-grab.git",
-        "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/hyves-uname/'><img src='http://www.archiveteam.org/images/5/53/1384011894.png' width='45' height='19' /></a>",
-        "lat_lng": [
-            52.3730,
-            4.8922
-        ],
-        "leaderboard": "http://tracker.archiveteam.org/hyves-uname/"
-
     }
   ]
 }
