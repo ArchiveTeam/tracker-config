@@ -1,19 +1,9 @@
 {
   "warrior": {
-    "seesaw_version": "0.0.13"
+    "seesaw_version": "0.0.15"
   },
-  "auto_project": "URLTeam",
+  "auto_project": "hyves-content",
   "projects": [
-    {
-      "name":        "formspring",
-      "title":       "Formspring",
-      "description": "Formspring is closing April 15, 2013.",
-      "repository":  "https://github.com/ArchiveTeam/formspring-grab.git",
-      "logo":        "http://archiveteam.org/images/a/a0/Formspring-logo258x62_blue.png",
-      "marker_html": "<a href='http://tracker.archiveteam.org/formspring/'><img src='http://archiveteam.org/images/a/a0/Formspring-logo258x62_blue.png' alt='Formspring' width='258' height='62' /></a>",
-      "host":        "www.formspring.me",
-      "leaderboard": "http://tracker.archiveteam.org/formspring/"
-    },
     {
       "name":        "URLTeam",
       "title":       "URLTeam",
@@ -38,7 +28,36 @@
         ],
         "leaderboard": "http://tracker.archiveteam.org/bloopertv/"
      
+    },
+    {
+ 
+        "name": "hyves-username",
+        "title": "Hyves Discovery",
+        "description": "Discovering usernames in Hyves",
+        "repository": "https://github.com/ArchiveTeam/hyves-username-grab.git",
+        "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
+        "marker_html": "<a href='http://tracker.archiveteam.org/hyves-uname/'><img src='http://www.archiveteam.org/images/b/b3/Hyves_logo.png' width='120' height='120' /></a>",
+        "lat_lng": [
+            51.9036,
+            7.44873
+        ],
+        "leaderboard": "http://tracker.archiveteam.org/hyves-uname/"
     }
+    {
+
+        "name": "hyves-content",
+        "title": "Hyves Grab",
+        "description": "Grabbing all we can from Hyves",
+        "repository": "https://github.com/ArchiveTeam/hyves-grab.git",
+        "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
+        "marker_html": "<a href='http://tracker.archiveteam.org/hyves/'><img src='http://www.archiveteam.org/images/b/b3/Hyves_logo.png' width='120' height='120' /></a>",
+        "lat_lng": [
+            51.9036,
+            7.44873
+        ],
+        "leaderboard": "http://tracker.archiveteam.org/hyves/"
+    }
+
   ]
 }
 
