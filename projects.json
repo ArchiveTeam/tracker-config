@@ -46,7 +46,7 @@
     {
 
         "name": "hyves-content",
-        "title": "Hyves Grab",
+        "title": "Hyves Content",
         "description": "Grabbing all we can from Hyves",
         "repository": "https://github.com/ArchiveTeam/hyves-grab.git",
         "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
