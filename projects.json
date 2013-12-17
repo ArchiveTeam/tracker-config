@@ -31,31 +31,31 @@
     },
     {
  
-        "name": "hyves-username",
-        "title": "Hyves Discovery",
-        "description": "Discovering usernames in Hyves",
-        "repository": "https://github.com/ArchiveTeam/hyves-username-grab.git",
-        "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/hyves-uname/'><img src='http://www.archiveteam.org/images/b/b3/Hyves_logo.png' width='120' height='120' /></a>",
+        "name": "wretch-content",
+        "title": "Wretch Content",
+        "description": "Grabbing what we can from Wretch",
+        "repository": "https://github.com/ArchiveTeam/wretch-grab.git",
+        "logo": "http://scr.terrywri.st/1387284744.png",
+        "marker_html": "<a href='http://tracker.archiveteam.org/wretch/'><img src='http://scr.terrywri.st/1387284744.png' width='120' height='120' /></a>",
         "lat_lng": [
-            51.9036,
-            7.44873
+            22.2478,
+            114.203
         ],
-        "leaderboard": "http://tracker.archiveteam.org/hyves-uname/"
+        "leaderboard": "http://tracker.archiveteam.org/wretch/"
     },
     {
 
-        "name": "hyves-content",
-        "title": "Hyves Content",
-        "description": "Grabbing all we can from Hyves",
-        "repository": "https://github.com/ArchiveTeam/hyves-grab.git",
-        "logo": "http://www.archiveteam.org/images/b/b3/Hyves_logo.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/hyves/'><img src='http://www.archiveteam.org/images/b/b3/Hyves_logo.png' width='120' height='120' /></a>",
+        "name": "yahooblog",
+        "title": "Yahoo Blog",
+        "description": "Yahoo has gone on a cleaning spree!",
+        "repository": "https://github.com/ArchiveTeam/yahooblog2-grab.git",
+        "logo": "http://scr.terrywri.st/1387284744.png",
+        "marker_html": "<a href='http://tracker.archiveteam.org/yahooblog/'><img src='http://scr.terrywri.st/1387284744.png' width='120' height='120' /></a>",
         "lat_lng": [
-            51.9036,
-            7.44873
+            22.2478,
+            114.203
         ],
-        "leaderboard": "http://tracker.archiveteam.org/hyves/"
+        "leaderboard": "http://tracker.archiveteam.org/yahooblog/"
     }
 
   ]
