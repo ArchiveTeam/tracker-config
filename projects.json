@@ -1,8 +1,8 @@
 {
   "warrior": {
-    "seesaw_version": "0.0.15"
+    "seesaw_version": "0.1.4"
   },
-  "auto_project": "wyb-discover",
+  "auto_project": "yahooblog",
   "projects": [
     {
       "name":        "URLTeam",
