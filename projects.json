@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.1.4"
   },
-  "auto_project": "yahooblog",
+  "auto_project": "URLTeam",
   "projects": [
     {
       "name":        "URLTeam",
@@ -13,49 +13,6 @@
       "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
       "lat_lng":     [50.4773, 12.3692],
       "leaderboard": "http://urlteam.terrywri.st/"
-    },
-    {
-     
-        "name": "wyb-discover",
-        "title": "Wretch and Yahoo Blog Discovery",
-        "description": "Discovering the users of Wretch and Yahoo Blog",
-        "repository": "https://github.com/ArchiveTeam/yahoo-blog-wretch-username-grab.git",
-        "logo": "http://scr.terrywri.st/1387284744.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/shipwretched/'><img src='http://scr.terrywri.st/1387284744.png' width='120' height='120' /></a>",
-        "lat_lng": [
-            22.2478,
-            114.203
-        ],
-        "leaderboard": "http://tracker.archiveteam.org/shipwretched/"
-     
-    },
-    {
- 
-        "name": "wretch-content",
-        "title": "Wretch Content",
-        "description": "Grabbing what we can from Wretch",
-        "repository": "https://github.com/ArchiveTeam/wretch-grab.git",
-        "logo": "http://scr.terrywri.st/1387284744.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/wretch/'><img src='http://scr.terrywri.st/1387284744.png' width='120' height='120' /></a>",
-        "lat_lng": [
-            22.2478,
-            114.203
-        ],
-        "leaderboard": "http://tracker.archiveteam.org/wretch/"
-    },
-    {
-
-        "name": "yahooblog",
-        "title": "Yahoo Blog",
-        "description": "Yahoo has gone on a cleaning spree!",
-        "repository": "https://github.com/ArchiveTeam/yahooblog2-grab.git",
-        "logo": "http://scr.terrywri.st/1387284744.png",
-        "marker_html": "<a href='http://tracker.archiveteam.org/yahooblog/'><img src='http://scr.terrywri.st/1387284744.png' width='120' height='120' /></a>",
-        "lat_lng": [
-            22.2478,
-            114.203
-        ],
-        "leaderboard": "http://tracker.archiveteam.org/yahooblog/"
     }
 
   ]
