@@ -13,8 +13,18 @@
       "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
       "lat_lng":     [50.4773, 12.3692],
       "leaderboard": "http://urlteam.terrywri.st/"
-    }
+    },
 
+    {
+      "name":        "dogster",
+      "title":       "Dogster and Catster",
+      "description": "They've all gone to the pound, we must rescue them",
+      "repository":  "https://github.com/ArchiveTeam/dogster-grab.git",
+      "logo":        "http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg",
+      "marker_html": "<a href='http://tracker.archiveteam.org/dogster/'><img src='http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg' width='25' height='19' /></a>",
+      "lat_lng":     [37.7833, 122.416],
+      "leaderboard": "http://tracker.archiveteam.org/dogster/"
+    }
   ]
 }
 
