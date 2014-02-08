@@ -2,7 +2,7 @@
   "warrior": {
     "seesaw_version": "0.1.4"
   },
-  "auto_project": "URLTeam",
+  "auto_project": "dogster",
   "projects": [
     {
       "name":        "URLTeam",
