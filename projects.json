@@ -1,30 +1,47 @@
 {
-  "warrior": {
-    "seesaw_version": "0.1.4"
-  },
-  "auto_project": "dogster",
-  "projects": [
-    {
-      "name":        "URLTeam",
-      "title":       "URLTeam",
-      "description": "Archiving various URL shorteners",
-      "repository":  "https://github.com/ArchiveTeam/tinyback.git",
-      "logo":        "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png",
-      "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>",
-      "lat_lng":     [50.4773, 12.3692],
-      "leaderboard": "http://urlteam.terrywri.st/"
-    },
-
-    {
-      "name":        "dogster",
-      "title":       "Dogster and Catster",
-      "description": "They've all gone to the pound, we must rescue them",
-      "repository":  "https://github.com/ArchiveTeam/dogster-grab.git",
-      "logo":        "http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg",
-      "marker_html": "<a href='http://tracker.archiveteam.org/dogster/'><img src='http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg' width='30' height='23' /></a>",
-      "lat_lng":     [37.7833, 122.416],
-      "leaderboard": "http://tracker.archiveteam.org/dogster/"
+    "auto_project": "dogster", 
+    "projects": [
+        {
+            "description": "Archiving various URL shorteners", 
+            "lat_lng": [
+                50.4773, 
+                12.369199999999999
+            ], 
+            "leaderboard": "http://urlteam.terrywri.st/", 
+            "logo": "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png", 
+            "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>", 
+            "name": "URLTeam", 
+            "repository": "https://github.com/ArchiveTeam/tinyback.git", 
+            "title": "URLTeam"
+        }, 
+        {
+            "description": "They've all gone to the pound, we must rescue them", 
+            "lat_lng": [
+                37.783299999999997, 
+                122.416
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/dogster/", 
+            "logo": "http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/dogster/'><img src='http://download.hacktheplanet.nl/imgdump/dogester-grab.jpg' width='30' height='23' /></a>", 
+            "name": "dogster", 
+            "repository": "https://github.com/ArchiveTeam/dogster-grab.git", 
+            "title": "Dogster and Catster"
+        }, 
+        {
+            "description": "Grabbing My Opera before it's all over", 
+            "lat_lng": [
+                59.950000000000003, 
+                10.75
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/myopera/", 
+            "logo": "http://static.myopera.com/community/graphics/dexter/myo-icon.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/myopera/'><img src='http://static.myopera.com/community/graphics/dexter/myo-icon.png' width='30' height='23' /></a>", 
+            "name": "My Opera", 
+            "repository": "https://github.com/ArchiveTeam/myopera-grab.git", 
+            "title": "My Opera"
+        }
+    ], 
+    "warrior": {
+        "seesaw_version": "0.1.4"
     }
-  ]
 }
-
