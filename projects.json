@@ -1,19 +1,6 @@
 {
-    "auto_project": "dogster", 
+    "auto_project": "viddler",
     "projects": [
-        {
-            "description": "Archiving various URL shorteners", 
-            "lat_lng": [
-                50.4773, 
-                12.369199999999999
-            ], 
-            "leaderboard": "http://urlteam.terrywri.st/", 
-            "logo": "http://archiveteam.org/images/9/9d/Urlteam-logo-reasonable-size.png", 
-            "marker_html": "<a href='http://urlteam.terrywri.st/'><img src='http://archiveteam.org/images/thumb/9/97/Urlteam-logo.png/120px-Urlteam-logo.png' width='120' height='19' /></a>", 
-            "name": "URLTeam", 
-            "repository": "https://github.com/ArchiveTeam/tinyback.git", 
-            "title": "URLTeam"
-        }, 
         {
             "description": "They've all gone to the pound, we must rescue them", 
             "lat_lng": [
@@ -36,9 +23,35 @@
             "leaderboard": "http://tracker.archiveteam.org/myopera/", 
             "logo": "http://static.myopera.com/community/graphics/dexter/myo-icon.png", 
             "marker_html": "<a href='http://tracker.archiveteam.org/myopera/'><img src='http://static.myopera.com/community/graphics/dexter/myo-icon.png' width='30' height='23' /></a>", 
-            "name": "My Opera", 
+            "name": "myopera", 
             "repository": "https://github.com/ArchiveTeam/myopera-grab.git", 
             "title": "My Opera"
+        }, 
+        {
+            "description": "Saving Bebo before it's \"re-invented\"", 
+            "lat_lng": [
+                37.770000457763999, 
+                -122.41000366210901
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/bebo/", 
+            "logo": "http://archiveteam.org/images/f/f6/Bebo_Logo_new.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/bebo/'><img src='http://archiveteam.org/images/f/f6/Bebo_Logo_new.png' width='30' height='30' /></a>", 
+            "name": "bebo", 
+            "repository": "https://github.com/ArchiveTeam/bebo-grab.git", 
+            "title": "Bebo"
+        }, 
+        {
+            "description": "Voraciously vacuuming Viddler's videos before it vanishes", 
+            "lat_lng": [
+                40.626100000000001, 
+                75.375600000000006
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/viddler/", 
+            "logo": "http://archiveteam.org/images/a/aa/ViddlerLogoLg.png", 
+            "marker_html": "Viddler", 
+            "name": "viddler", 
+            "repository": "https://github.com/ArchiveTeam/viddler-grab.git", 
+            "title": "Viddler"
         }
     ], 
     "warrior": {
