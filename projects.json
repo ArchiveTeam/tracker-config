@@ -15,17 +15,17 @@
             "title": "Tinyback"
         }, 
         {
-            "description": "Yahoo! Voices", 
+            "description": "Fotopedia is shutting down. Phase 1: Content discovery.", 
             "lat_lng": [
                 37.410626999999998, 
                 -122.00417899999999
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/yahoovoices/", 
-            "logo": "http://archiveteam.org/images/a/a2/Yahoo-logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/yahoovoices/'><img src='http://archiveteam.org/images/a/a2/Yahoo-logo.png' width='160'/></a>", 
-            "name": "yahoovoices", 
-            "repository": "https://github.com/ArchiveTeam/yahoo-voices-grab", 
-            "title": "Yahoo! Voices"
+            "leaderboard": "http://tracker.archiveteam.org/fotodisco/", 
+            "logo": "http://archiveteam.org/images/a/aa/Fotopedia_Logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/fotodisco/'><img src='http://archiveteam.org/images/a/aa/Fotopedia_Logo.png' width='160'/></a>", 
+            "name": "fotodisco", 
+            "repository": "https://github.com/ArchiveTeam/fotopedia-discovery-grab", 
+            "title": "Fotopedia Phase 1"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
