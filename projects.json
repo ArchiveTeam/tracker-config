@@ -1,5 +1,5 @@
 {
-    "auto_project": "yahoovoices", 
+    "DISABLED-auto_project": "yahoovoices", 
     "projects": [
         {
             "description": "tinyback", 
@@ -26,6 +26,19 @@
             "name": "yahoovoices", 
             "repository": "https://github.com/ArchiveTeam/yahoo-voices-grab", 
             "title": "Yahoo! Voices"
+        },
+        {
+            "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
+            "lat_lng": [
+                0, 
+                0
+            ], 
+            "leaderboard": "http://archiveteam.org/", 
+            "logo": "http://www.textfiles.com/underconstruction/AtAthensOracle6031Construction-Man-1.gif", 
+            "marker_html": "<a href='http://archiveteam.org/'><img src='http://www.textfiles.com/underconstruction/AtAthensOracle6031Construction-Man-1.gif' width='160'/></a>", 
+            "name": "urlteam2", 
+            "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
+            "title": "URLTeam 2 (Under Construction)"
         }
     ], 
     "warrior": {
