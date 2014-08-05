@@ -1,5 +1,5 @@
 {
-    "DISABLED-auto_project": "yahoovoices", 
+    "auto_project": "fotodisco", 
     "projects": [
         {
             "description": "tinyback", 
@@ -26,6 +26,19 @@
             "name": "fotodisco", 
             "repository": "https://github.com/ArchiveTeam/fotopedia-discovery-grab", 
             "title": "Fotopedia Phase 1"
+        },
+        {
+            "description": "Fotopedia is shutting down. Phase 2: Content download.", 
+            "lat_lng": [
+                47.410626999999998, 
+                -122.00417899999999
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/fotopedia/", 
+            "logo": "http://archiveteam.org/images/a/aa/Fotopedia_Logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/fotopedia/'><img src='http://archiveteam.org/images/a/aa/Fotopedia_Logo.png' width='160'/></a>", 
+            "name": "fotopedia", 
+            "repository": "https://github.com/ArchiveTeam/fotopedia-grab", 
+            "title": "Fotopedia Phase 2"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
