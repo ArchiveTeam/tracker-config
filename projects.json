@@ -1,5 +1,5 @@
 {
-    "auto_project": "fotodisco", 
+    "auto_project": "fotopedia", 
     "projects": [
         {
             "description": "tinyback", 
@@ -14,6 +14,19 @@
             "repository": "https://github.com/db48x/tinyback.git", 
             "title": "Tinyback"
         }, 
+        {
+            "description": "Twitch.tv is deleting videos. Phase 1: Content discovery.", 
+            "lat_lng": [
+                17.410626999999998,
+                -102.00417899999999
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitchdisco/", 
+            "logo": "http://archiveteam.org/images/d/d4/Twitch_Logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitchdisco/'><img src='http://archiveteam.org/images/d/d4/Twitch_Logo.png' width='160'/></a>", 
+            "name": "twitchdisco", 
+            "repository": "https://github.com/ArchiveTeam/twitchtv-discovery-grab", 
+            "title": "Twitch Phase 1"
+        },
         {
             "description": "Fotopedia is shutting down. Phase 1: Content discovery.", 
             "lat_lng": [
