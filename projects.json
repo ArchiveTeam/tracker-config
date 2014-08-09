@@ -1,5 +1,5 @@
 {
-    "auto_project": "fotopedia", 
+    "auto_project": "twitchdisco", 
     "projects": [
         {
             "description": "tinyback", 
@@ -26,6 +26,19 @@
             "name": "twitchdisco", 
             "repository": "https://github.com/ArchiveTeam/twitchtv-discovery-grab", 
             "title": "Twitch Phase 1"
+        },
+        {
+            "description": "Twitch.tv is deleting videos. Phase 2: Content downloading.", 
+            "lat_lng": [
+                20.410626999999998,
+                -102.00417899999999
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitchtv/", 
+            "logo": "http://archiveteam.org/images/d/d4/Twitch_Logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitchtv/'><img src='http://archiveteam.org/images/d/d4/Twitch_Logo.png' width='160'/></a>", 
+            "name": "twitchtv", 
+            "repository": "https://github.com/ArchiveTeam/twitchtv-grab", 
+            "title": "Twitch Phase 2"
         },
         {
             "description": "Fotopedia is shutting down. Phase 1: Content discovery.", 
