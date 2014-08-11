@@ -1,5 +1,5 @@
 {
-    "auto_project": "twitchtv", 
+    "auto_project": "canvas", 
     "projects": [
         {
             "description": "tinyback", 
@@ -28,7 +28,7 @@
             "title": "Twitch Phase 1"
         },
         {
-            "description": "Twitch.tv is deleting videos. Phase 2: Content downloading.", 
+            "description": "Twitch.tv is deleting videos. Phase 2: Content downloading. Donate to the Internet Archive! Help keep the library free for millions of people. https://archive.org/donate/ https://archive.org/donate/ https://archive.org/donate/", 
             "lat_lng": [
                 20.410626999999998,
                 -102.00417899999999
