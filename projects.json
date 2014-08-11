@@ -41,6 +41,19 @@
             "title": "Twitch Phase 2"
         },
         {
+            "description": "Archiving Canv.as", 
+            "lat_lng": [
+                10,
+                -120
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/canvas/", 
+            "logo": "http://archiveteam.org/images/0/0d/Canvas-beta-logo-medium.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/canvas/'><img src='http://archiveteam.org/images/0/0d/Canvas-beta-logo-medium.png' width='160'/></a>", 
+            "name": "canvas", 
+            "repository": "https://github.com/ArchiveTeam/canvas-archive-grab", 
+            "title": "Canv.as"
+        },
+        {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
             "lat_lng": [
                 0, 
