@@ -1,5 +1,5 @@
 {
-    "auto_project": "canvas", 
+    "auto_project": "twitchtv", 
     "projects": [
         {
             "description": "tinyback", 
@@ -41,17 +41,17 @@
             "title": "Twitch Phase 2"
         },
         {
-            "description": "Archiving Canv.as", 
+            "description": "Archiving homepages from home.swipnet.se", 
             "lat_lng": [
-                10,
-                -120
+                62.2,
+                17.6
             ],
-            "leaderboard": "http://tracker.archiveteam.org/canvas/", 
-            "logo": "http://archiveteam.org/images/0/0d/Canvas-beta-logo-medium.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/canvas/'><img src='http://archiveteam.org/images/0/0d/Canvas-beta-logo-medium.png' width='160'/></a>", 
-            "name": "canvas", 
-            "repository": "https://github.com/ArchiveTeam/canvas-archive-grab", 
-            "title": "Canv.as"
+            "leaderboard": "http://tracker.archiveteam.org/swipnet/", 
+            "logo": "http://archiveteam.org/images/8/81/Frank_sheep_poses.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/swipnet/'><img src='http://archiveteam.org/images/8/81/Frank_sheep_poses.jpg' width='160'/></a>", 
+            "name": "swipnet", 
+            "repository": "https://github.com/ArchiveTeam/swipnet-grab", 
+            "title": "Swipnet"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
