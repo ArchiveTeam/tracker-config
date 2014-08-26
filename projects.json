@@ -1,5 +1,5 @@
 {
-    "auto_project": "twitchtv", 
+    "auto_project": "swipnet", 
     "projects": [
         {
             "description": "tinyback", 
@@ -52,6 +52,19 @@
             "name": "swipnet", 
             "repository": "https://github.com/ArchiveTeam/swipnet-grab", 
             "title": "Swipnet"
+        },
+        {
+            "description": "Archiving homepages from tele2.se (work in progress; do not click)", 
+            "lat_lng": [
+                32.2,
+                17.6
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/tele2/", 
+            "logo": "http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.or/tele2/'><img src='http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png' width='160'/></a>", 
+            "name": "tele2", 
+            "repository": "XXX-https://github.com/ArchiveTeam/tele2-grab", 
+            "title": "Tele2"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
