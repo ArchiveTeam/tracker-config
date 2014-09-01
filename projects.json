@@ -54,7 +54,7 @@
             "title": "Swipnet"
         },
         {
-            "description": "Archiving homepages from tele2.se (work in progress; do not click)", 
+            "description": "Archiving homepages from home.tele2.se", 
             "lat_lng": [
                 32.2,
                 17.6
@@ -63,8 +63,21 @@
             "logo": "http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png", 
             "marker_html": "<a href='http://tracker.archiveteam.or/tele2/'><img src='http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png' width='160'/></a>", 
             "name": "tele2", 
-            "repository": "XXX-https://github.com/ArchiveTeam/tele2-grab", 
+            "repository": "https://github.com/ArchiveTeam/tele2-grab", 
             "title": "Tele2"
+        },
+        {
+            "description": "under development - do not click - Archiving homepages from Verizon", 
+            "lat_lng": [
+                40.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/verizon/", 
+            "logo": "http://archiveteam.org/images/thumb/b/bc/Verizon_Logo.png/320px-Verizon_Logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/verizon/'><img src='http://archiveteam.org/images/thumb/b/bc/Verizon_Logo.png/320px-Verizon_Logo.png' width='160'/></a>", 
+            "name": "verizon", 
+            "repository": "https://github.com/ArchiveTeam/verizon-grab", 
+            "title": "Verizon"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
