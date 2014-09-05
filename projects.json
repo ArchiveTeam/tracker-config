@@ -1,5 +1,5 @@
 {
-    "auto_project": "swipnet", 
+    "auto_project": "verizon", 
     "projects": [
         {
             "description": "tinyback", 
@@ -67,7 +67,7 @@
             "title": "Tele2"
         },
         {
-            "description": "under development - do not click - Archiving homepages from Verizon", 
+            "description": "Archiving homepages from Verizon", 
             "lat_lng": [
                 40.71,
                 -74.01
@@ -78,6 +78,19 @@
             "name": "verizon", 
             "repository": "https://github.com/ArchiveTeam/verizon-grab", 
             "title": "Verizon"
+        },
+        {
+            "description": "TwitPic is shutting down. Phase 1: Content Discovery.",
+            "lat_lng": [
+                40.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/verizon/",
+            "logo": "http://archiveteam.org/images/6/68/Twitpic-logo.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpicdisco/'><img src='http://archiveteam.org/images/6/68/Twitpic-logo.png' width='160'/></a>",
+            "name": "twitpicdisco",
+            "repository": "https://github.com/ArchiveTeam/twitpic-discovery",
+            "title": "TwitPic Phase 1"
         },
         {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
