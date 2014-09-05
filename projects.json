@@ -1,5 +1,5 @@
 {
-    "auto_project": "verizon", 
+    "auto_project": "twitpicdisco", 
     "projects": [
         {
             "description": "tinyback", 
@@ -41,32 +41,6 @@
             "title": "Twitch Phase 2"
         },
         {
-            "description": "Archiving homepages from home.swipnet.se", 
-            "lat_lng": [
-                62.2,
-                17.6
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/swipnet/", 
-            "logo": "http://archiveteam.org/images/8/81/Frank_sheep_poses.jpg", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/swipnet/'><img src='http://archiveteam.org/images/8/81/Frank_sheep_poses.jpg' width='160'/></a>", 
-            "name": "swipnet", 
-            "repository": "https://github.com/ArchiveTeam/swipnet-grab", 
-            "title": "Swipnet"
-        },
-        {
-            "description": "Archiving homepages from home.tele2.se", 
-            "lat_lng": [
-                32.2,
-                17.6
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/tele2/", 
-            "logo": "http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.or/tele2/'><img src='http://archiveteam.org/images/7/78/Frank_overlay_archivetime.png' width='160'/></a>", 
-            "name": "tele2", 
-            "repository": "https://github.com/ArchiveTeam/tele2-grab", 
-            "title": "Tele2"
-        },
-        {
             "description": "Archiving homepages from Verizon", 
             "lat_lng": [
                 40.71,
@@ -93,6 +67,19 @@
             "title": "TwitPic Phase 1"
         },
         {
+            "description": "TwitPic is shutting down. Phase 2: grab all the things.",
+            "lat_lng": [
+                40.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitpic",
+            "logo": "http://archiveteam.org/images/6/68/Twitpic-logo.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic/'><img src='http://archiveteam.org/images/6/68/Twitpic-logo.png' width='160'/></a>",
+            "name": "twitpic",
+            "repository": "https://github.com/ArchiveTeam/twitpic-grab",
+            "title": "TwitPic Phase 2"
+        },
+        {
             "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
             "lat_lng": [
                 0, 
@@ -107,6 +94,6 @@
         }
     ], 
     "warrior": {
-        "seesaw_version": "0.2.1"
+        "seesaw_version": "0.4.0"
     }
 }
