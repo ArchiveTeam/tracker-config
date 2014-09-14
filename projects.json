@@ -41,7 +41,7 @@
             "title": "TwitPic Phase 2"
         },
         {
-            "description": "Under development. Please do not click! Ancestry sites.",
+            "description": "Saving sites acquired by Ancestry.com.",
             "lat_lng": [
                 40.71,
                 -74.01
@@ -51,7 +51,7 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/ancestry/'><img src='http://archiveteam.org/images/a/ac/Archiveteamlogo1.png' width='160'/></a>",
             "name": "ancestry",
             "repository": "https://github.com/ArchiveTeam/ancestry-grab",
-            "title": "Ancestry (Work in progress)"
+            "title": "Ancestry.com"
         },
         {
             "description": "URL shorteners are a ticking timebomb.", 
