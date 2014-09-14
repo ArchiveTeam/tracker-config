@@ -1,19 +1,6 @@
 {
-    "auto_project": "twitpicdisco", 
+    "auto_project": "verizon", 
     "projects": [
-        {
-            "description": "tinyback", 
-            "lat_lng": [
-                42.434699999999999, 
-                -83.984999999999999
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/tinyback/", 
-            "logo": "http://urlte.am/logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/tinyback/'><img src='http://urlte.am/logo.png' width='160'/></a>", 
-            "name": "tinyback", 
-            "repository": "https://github.com/db48x/tinyback.git", 
-            "title": "Tinyback"
-        }, 
         {
             "description": "Archiving homepages from Verizon", 
             "lat_lng": [
@@ -67,20 +54,20 @@
             "title": "Ancestry (Work in progress)"
         },
         {
-            "description": "Work in progress of URLTeam's new tracker. To contribute, please see ArchiveTeam homepage.", 
+            "description": "URL shorteners are a ticking timebomb.", 
             "lat_lng": [
                 0, 
                 0
             ], 
-            "leaderboard": "http://archiveteam.org/", 
-            "logo": "http://www.textfiles.com/underconstruction/AtAthensOracle6031Construction-Man-1.gif", 
-            "marker_html": "<a href='http://archiveteam.org/'><img src='http://www.textfiles.com/underconstruction/AtAthensOracle6031Construction-Man-1.gif' width='160'/></a>", 
+            "leaderboard": "http://tracker.archiveteam.org:1337/", 
+            "logo": "http://archiveteam.org/images/9/97/Urlteam-logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org:1337/'><img src='http://archiveteam.org/images/9/97/Urlteam-logo.png' width='160'/></a>", 
             "name": "urlteam2", 
             "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
-            "title": "URLTeam 2 (Under Construction)"
+            "title": "URLTeam 2"
         }
     ], 
     "warrior": {
-        "seesaw_version": "0.4.0"
+        "seesaw_version": "0.5.0"
     }
 }
