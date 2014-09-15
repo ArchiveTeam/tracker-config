@@ -1,5 +1,5 @@
 {
-    "auto_project": "verizon", 
+    "auto_project": "twitpic", 
     "projects": [
         {
             "description": "Archiving homepages from Verizon", 
@@ -65,6 +65,19 @@
             "name": "urlteam2", 
             "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
             "title": "URLTeam 2"
+        },
+        {
+            "description": "Not yet ready. Please do not click.", 
+            "lat_lng": [
+                -53, 
+                29
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/", 
+            "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
+            "name": "quizilla-test", 
+            "repository": "https://github.com/ArchiveTeam/quizilla-grab", 
+            "title": "Quizilla (Under development)"
         }
     ], 
     "warrior": {
