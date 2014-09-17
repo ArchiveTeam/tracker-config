@@ -78,6 +78,19 @@
             "name": "quizilla-test", 
             "repository": "https://github.com/ArchiveTeam/quizilla-grab", 
             "title": "Quizilla (Under development)"
+        },
+        {
+            "description": "Not for public use. Please do not click.", 
+            "lat_lng": [
+                -53, 
+                29
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/", 
+            "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
+            "name": "twitpic-cloudfront-test", 
+            "repository": "https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
+            "title": "Quitpic Clownfront (Not public)"
         }
     ], 
     "warrior": {
