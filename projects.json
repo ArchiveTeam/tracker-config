@@ -47,8 +47,8 @@
                 -74.01
             ],
             "leaderboard": "http://tracker.archiveteam.org/ancestry/",
-            "logo": "http://archiveteam.org/images/a/ac/Archiveteamlogo1.png",
-            "marker_html": "<a href='http://tracker.archiveteam.org/ancestry/'><img src='http://archiveteam.org/images/a/ac/Archiveteamlogo1.png' width='160'/></a>",
+            "logo": "http://archiveteam.org/images/d/de/Ancestry_Logo.jpg",
+            "marker_html": "<a href='http://tracker.archiveteam.org/ancestry/'><img src='http://archiveteam.org/images/d/de/Ancestry_Logo.jpg' width='160'/></a>",
             "name": "ancestry",
             "repository": "https://github.com/ArchiveTeam/ancestry-grab",
             "title": "Ancestry.com"
