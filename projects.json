@@ -67,17 +67,17 @@
             "title": "URLTeam 2"
         },
         {
-            "description": "Not yet ready. Please do not click.", 
+            "description": "Which ArchiveTeam project are you?", 
             "lat_lng": [
                 -53, 
                 29
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/", 
-            "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
-            "name": "quizilla-test", 
+            "leaderboard": "http://tracker.archiveteam.org/quizilla", 
+            "logo": "http://archiveteam.org/images/5/5a/Quizilla_logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/quizilla'><img src='http://archiveteam.org/images/5/5a/Quizilla_logo.png' width='160'/></a>", 
+            "name": "quizilla", 
             "repository": "https://github.com/ArchiveTeam/quizilla-grab", 
-            "title": "Quizilla (Under development)"
+            "title": "Quizilla"
         },
         {
             "description": "Not for public use. Please do not click.", 
@@ -85,15 +85,15 @@
                 -53, 
                 29
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/", 
+            "leaderboard": "http://tracker.archiveteam.org/twitpic-cloudfront", 
             "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic-cloudfront'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
             "name": "twitpic-cloudfront-test", 
-            "repository": "https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
+            "repository": "XXX-https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
             "title": "Quitpic Clownfront (Not public)"
         }
     ], 
     "warrior": {
-        "seesaw_version": "0.5.0"
+        "seesaw_version": "0.6.0"
     }
 }
