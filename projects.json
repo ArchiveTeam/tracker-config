@@ -80,6 +80,19 @@
             "title": "Quizilla"
         },
         {
+            "description": "Please do not click yet. Discovering more Quizilla content.", 
+            "lat_lng": [
+                -53, 
+                29
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/quizilladisco", 
+            "logo": "http://archiveteam.org/images/5/5a/Quizilla_logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/quizilladisco'><img src='http://archiveteam.org/images/5/5a/Quizilla_logo.png' width='160'/></a>", 
+            "name": "quizilladisco", 
+            "repository": "https://github.com/ArchiveTeam/quizilla-discovery", 
+            "title": "Quizilla Discovery (Work in progress)"
+        },
+        {
             "description": "Not for public use. Please do not click.", 
             "lat_lng": [
                 -53, 
