@@ -104,6 +104,19 @@
             "name": "twitpic-cloudfront-test", 
             "repository": "XXX-https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
             "title": "Quitpic Clownfront (Not public)"
+        },
+        {
+            "description": "Please do not click yet. Yahoo! is closing Qwiki. This phase is content discovery.", 
+            "lat_lng": [
+                -83, 
+                19
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/qwikidisco", 
+            "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/qwikidisco'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
+            "name": "qwikidisco", 
+            "repository": "https://github.com/ArchiveTeam/qwiki-discovery", 
+            "title": "Qwiki Discovery (Work in progress)"
         }
     ], 
     "warrior": {
