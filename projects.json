@@ -90,7 +90,7 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/qwiki'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
             "name": "qwiki", 
             "repository": "https://github.com/ArchiveTeam/qwiki-grab", 
-            "title": "Qwiki (Work in progress)"
+            "title": "Qwiki"
         },
         {
             "description": "Don't click just yet!", 
