@@ -124,15 +124,28 @@
                 -83, 
                 20
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/qwik", 
+            "leaderboard": "http://tracker.archiveteam.org/qwiki", 
             "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
             "marker_html": "<a href='http://tracker.archiveteam.org/qwiki'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
             "name": "qwiki", 
             "repository": "https://github.com/ArchiveTeam/qwiki-grab", 
-            "title": "Qwiki"
+            "title": "Qwiki (Work in progress)"
+        },
+        {
+            "description": "Don't click just yet!", 
+            "lat_lng": [
+                46.8, 
+                8.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/panoramio", 
+            "logo": "http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/panoramio'><img src='http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg' width='160'/></a>", 
+            "name": "panoramio", 
+            "repository": "https://github.com/ArchiveTeam/panoramio-grab", 
+            "title": "Panoramio (Work in progress)"
         }
     ], 
     "warrior": {
-        "seesaw_version": "0.6.0"
+        "seesaw_version": "0.7.0"
     }
 }
