@@ -2,19 +2,6 @@
     "auto_project": "twitpic", 
     "projects": [
         {
-            "description": "Archiving homepages from Verizon", 
-            "lat_lng": [
-                40.71,
-                -74.01
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/verizon/", 
-            "logo": "http://archiveteam.org/images/thumb/b/bc/Verizon_Logo.png/320px-Verizon_Logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/verizon/'><img src='http://archiveteam.org/images/thumb/b/bc/Verizon_Logo.png/320px-Verizon_Logo.png' width='160'/></a>", 
-            "name": "verizon", 
-            "repository": "https://github.com/ArchiveTeam/verizon-grab", 
-            "title": "Verizon"
-        },
-        {
             "description": "TwitPic is shutting down. Phase 1: Content Discovery.",
             "lat_lng": [
                 40.71,
@@ -67,32 +54,6 @@
             "title": "URLTeam 2"
         },
         {
-            "description": "Which ArchiveTeam project are you?", 
-            "lat_lng": [
-                -53, 
-                29
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/quizilla", 
-            "logo": "http://archiveteam.org/images/5/5a/Quizilla_logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/quizilla'><img src='http://archiveteam.org/images/5/5a/Quizilla_logo.png' width='160'/></a>", 
-            "name": "quizilla", 
-            "repository": "https://github.com/ArchiveTeam/quizilla-grab", 
-            "title": "Quizilla"
-        },
-        {
-            "description": "Discovering more Quizilla content.", 
-            "lat_lng": [
-                -53, 
-                29
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/quizilladisco", 
-            "logo": "http://archiveteam.org/images/5/5a/Quizilla_logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/quizilladisco'><img src='http://archiveteam.org/images/5/5a/Quizilla_logo.png' width='160'/></a>", 
-            "name": "quizilladisco", 
-            "repository": "https://github.com/ArchiveTeam/quizilla-discovery", 
-            "title": "Quizilla Discovery"
-        },
-        {
             "description": "Not for public use. Please do not click.", 
             "lat_lng": [
                 -53, 
@@ -119,7 +80,7 @@
             "title": "Qwiki Discovery"
         },
         {
-            "description": "Don't click yet. Yahoo! is closing Qwiki. This phase is content download.", 
+            "description": "Yahoo! is closing Qwiki. This phase is content download.", 
             "lat_lng": [
                 -83, 
                 20
