@@ -1,5 +1,5 @@
 {
-    "auto_project": "twitpic", 
+    "auto_project": "qwikidisco", 
     "projects": [
         {
             "description": "TwitPic is shutting down. Phase 1: Content Discovery.",
@@ -104,6 +104,19 @@
             "name": "panoramio", 
             "repository": "https://github.com/ArchiveTeam/panoramio-grab", 
             "title": "Panoramio (Work in progress)"
+        },
+        {
+            "description": "Don't click yet! Saving GameMaker Sandbox.", 
+            "lat_lng": [
+                0.8, 
+                -23.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/gamemakersandbox", 
+            "logo": "http://archiveteam.org/images/thumb/2/2c/New_gamemaker_logo.png/800px-New_gamemaker_logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/gamemakersandbox'><img src='http://archiveteam.org/images/thumb/2/2c/New_gamemaker_logo.png/800px-New_gamemaker_logo.png' width='160'/></a>", 
+            "name": "gamemakersandbox", 
+            "repository": "https://github.com/ArchiveTeam/gamemaker-sandbox-grab", 
+            "title": "GameMaker Sandbox (Work in progress)"
         }
     ], 
     "warrior": {
