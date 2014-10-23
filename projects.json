@@ -1,5 +1,5 @@
 {
-    "auto_project": "qwikidisco", 
+    "auto_project": "twitpic", 
     "projects": [
         {
             "description": "TwitPic is shutting down. Phase 1: Content Discovery.",
@@ -106,17 +106,17 @@
             "title": "Panoramio (Work in progress)"
         },
         {
-            "description": "Saving GameMaker Sandbox.", 
+            "description": "Don't click just yet!", 
             "lat_lng": [
                 0.8, 
                 -23.2
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/gamemakersandbox", 
-            "logo": "http://archiveteam.org/images/thumb/2/2c/New_gamemaker_logo.png/800px-New_gamemaker_logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/gamemakersandbox'><img src='http://archiveteam.org/images/thumb/2/2c/New_gamemaker_logo.png/800px-New_gamemaker_logo.png' width='160'/></a>", 
-            "name": "gamemakersandbox", 
-            "repository": "https://github.com/ArchiveTeam/gamemaker-sandbox-grab", 
-            "title": "GameMaker Sandbox"
+            "leaderboard": "http://tracker.archiveteam.org/halo", 
+            "logo": "http://archiveteam.org/images/4/45/Newbungielogo.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/halo'><img src='http://archiveteam.org/images/4/45/Newbungielogo.jpg' width='160'/></a>", 
+            "name": "halo", 
+            "repository": "https://github.com/ArchiveTeam/halo-grab", 
+            "title": "Halo (Work in progress)"
         }
     ], 
     "warrior": {
