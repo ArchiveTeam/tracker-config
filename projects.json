@@ -28,6 +28,19 @@
             "title": "TwitPic Phase 2"
         },
         {
+            "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
+            "lat_lng": [
+                50.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitpic2",
+            "logo": "http://archiveteam.org/images/b/b3/Quitpic.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic2/'><img src='http://archiveteam.org/images/b/b3/Quitpic.png' width='160'/></a>",
+            "name": "twitpic2",
+            "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
+            "title": "TwitPic Phase 3"
+        },
+        {
             "description": "Saving sites acquired by Ancestry.com.",
             "lat_lng": [
                 40.71,
