@@ -1,32 +1,6 @@
 {
-    "auto_project": "twitpic", 
+    "auto_project": "twitpic2", 
     "projects": [
-        {
-            "description": "TwitPic is shutting down. Phase 1: Content Discovery.",
-            "lat_lng": [
-                40.71,
-                -74.01
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/twitpicdisco",
-            "logo": "http://archiveteam.org/images/6/68/Twitpic-logo.png",
-            "marker_html": "<a href='http://tracker.archiveteam.org/twitpicdisco/'><img src='http://archiveteam.org/images/6/68/Twitpic-logo.png' width='160'/></a>",
-            "name": "twitpicdisco",
-            "repository": "https://github.com/ArchiveTeam/twitpic-discovery",
-            "title": "TwitPic Phase 1"
-        },
-        {
-            "description": "TwitPic is shutting down. Phase 2: grab all the things.",
-            "lat_lng": [
-                40.71,
-                -74.01
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/twitpic",
-            "logo": "http://archiveteam.org/images/6/68/Twitpic-logo.png",
-            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic/'><img src='http://archiveteam.org/images/6/68/Twitpic-logo.png' width='160'/></a>",
-            "name": "twitpic",
-            "repository": "https://github.com/ArchiveTeam/twitpic-grab",
-            "title": "TwitPic Phase 2"
-        },
         {
             "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
             "lat_lng": [
