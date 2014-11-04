@@ -1,0 +1,4 @@
+1. Edit projects.json to add, change or remove a project
+2. ruby ../set-projects-json.rb projects.json
+3. git commit projects.json
+

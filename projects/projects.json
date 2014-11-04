@@ -1,0 +1,112 @@
+{
+    "auto_project": "twitpic2", 
+    "projects": [
+        {
+            "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
+            "lat_lng": [
+                50.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitpic2",
+            "logo": "http://archiveteam.org/images/b/b3/Quitpic.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic2/'><img src='http://archiveteam.org/images/b/b3/Quitpic.png' width='160'/></a>",
+            "name": "twitpic2",
+            "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
+            "title": "TwitPic Phase 3"
+        },
+        {
+            "description": "Saving sites acquired by Ancestry.com.",
+            "lat_lng": [
+                40.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/ancestry/",
+            "logo": "http://archiveteam.org/images/d/de/Ancestry_Logo.jpg",
+            "marker_html": "<a href='http://tracker.archiveteam.org/ancestry/'><img src='http://archiveteam.org/images/d/de/Ancestry_Logo.jpg' width='160'/></a>",
+            "name": "ancestry",
+            "repository": "https://github.com/ArchiveTeam/ancestry-grab",
+            "title": "Ancestry.com"
+        },
+        {
+            "description": "URL shorteners are a ticking timebomb.", 
+            "lat_lng": [
+                0, 
+                0
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org:1337/", 
+            "logo": "http://archiveteam.org/images/9/97/Urlteam-logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org:1337/'><img src='http://archiveteam.org/images/9/97/Urlteam-logo.png' width='160'/></a>", 
+            "name": "urlteam2", 
+            "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
+            "title": "URLTeam 2"
+        },
+        {
+            "description": "Not for public use. Please do not click.", 
+            "lat_lng": [
+                -53, 
+                29
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/twitpic-cloudfront", 
+            "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic-cloudfront'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
+            "name": "twitpic-cloudfront-test", 
+            "repository": "XXX-https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
+            "title": "Quitpic Clownfront (Not public)"
+        },
+        {
+            "description": "Yahoo! is closing Qwiki. This phase is content discovery.", 
+            "lat_lng": [
+                -83, 
+                19
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/qwikidisco", 
+            "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/qwikidisco'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
+            "name": "qwikidisco", 
+            "repository": "https://github.com/ArchiveTeam/qwiki-discovery", 
+            "title": "Qwiki Discovery"
+        },
+        {
+            "description": "Yahoo! is closing Qwiki. This phase is content download.", 
+            "lat_lng": [
+                -83, 
+                20
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/qwiki", 
+            "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/qwiki'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
+            "name": "qwiki", 
+            "repository": "https://github.com/ArchiveTeam/qwiki-grab", 
+            "title": "Qwiki"
+        },
+        {
+            "description": "Don't click just yet!", 
+            "lat_lng": [
+                46.8, 
+                8.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/panoramio", 
+            "logo": "http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/panoramio'><img src='http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg' width='160'/></a>", 
+            "name": "panoramio", 
+            "repository": "https://github.com/ArchiveTeam/panoramio-grab", 
+            "title": "Panoramio (Work in progress)"
+        },
+        {
+            "description": "Don't click just yet!", 
+            "lat_lng": [
+                0.8, 
+                -23.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/halo", 
+            "logo": "http://archiveteam.org/images/4/45/Newbungielogo.jpg", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/halo'><img src='http://archiveteam.org/images/4/45/Newbungielogo.jpg' width='160'/></a>", 
+            "name": "halo", 
+            "repository": "https://github.com/ArchiveTeam/halo-grab", 
+            "title": "Halo (Work in progress)"
+        }
+    ], 
+    "warrior": {
+        "seesaw_version": "0.7.0"
+    }
+}
