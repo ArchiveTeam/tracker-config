@@ -1,0 +1,14 @@
+/var/log/nginx-1.7/*.log {
+        daily
+        missingok
+        rotate 52
+        compress
+        delaycompress
+        notifempty
+        create 644 www-data root
+        sharedscripts
+        postrotate
+                [ ! -f /var/run/nginx-1.7.pid ] || kill -HUP `cat /var/run/nginx-1.7.pid`
+                [ ! -f /var/run/nginx-1.7.pid ] || kill -USR1 `cat /var/run/nginx-1.7.pid`
+        endscript
+}
