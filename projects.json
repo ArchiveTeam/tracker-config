@@ -104,6 +104,32 @@
             "name": "halo", 
             "repository": "https://github.com/ArchiveTeam/halo-grab", 
             "title": "Halo"
+        },
+        {
+            "description": "Don't click just yet!", 
+            "lat_lng": [
+                5.8, 
+                13.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/viddy", 
+            "logo": "http://archiveteam.org/images/thumb/5/5a/Viddylogo.png/320px-Viddylogo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/viddy'><img src='http://archiveteam.org/images/thumb/5/5a/Viddylogo.png/320px-Viddylogo.png'/></a>", 
+            "name": "viddy", 
+            "repository": "https://github.com/ArchiveTeam/viddy-grab", 
+            "title": "Viddy (work in progress)"
+        },
+        {
+            "description": "Don't click just yet!", 
+            "lat_lng": [
+                -4.8, 
+                24.2
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/jux", 
+            "logo": "http://archiveteam.org/images/6/6f/Jux_logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/jux'><img src='http://archiveteam.org/images/6/6f/Jux_logo.png' width='160'/></a>", 
+            "name": "jux", 
+            "repository": "https://github.com/ArchiveTeam/jux-grab", 
+            "title": "Jux (work in progress)"
         }
     ], 
     "warrior": {
