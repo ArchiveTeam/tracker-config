@@ -15,19 +15,6 @@
             "title": "TwitPic Phase 3"
         },
         {
-            "description": "Saving sites acquired by Ancestry.com.",
-            "lat_lng": [
-                40.71,
-                -74.01
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/ancestry/",
-            "logo": "http://archiveteam.org/images/d/de/Ancestry_Logo.jpg",
-            "marker_html": "<a href='http://tracker.archiveteam.org/ancestry/'><img src='http://archiveteam.org/images/d/de/Ancestry_Logo.jpg' width='160'/></a>",
-            "name": "ancestry",
-            "repository": "https://github.com/ArchiveTeam/ancestry-grab",
-            "title": "Ancestry.com"
-        },
-        {
             "description": "URL shorteners are a ticking timebomb.", 
             "lat_lng": [
                 0, 
@@ -39,45 +26,6 @@
             "name": "urlteam2", 
             "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
             "title": "URLTeam 2"
-        },
-        {
-            "description": "Not for public use. Please do not click.", 
-            "lat_lng": [
-                -53, 
-                29
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/twitpic-cloudfront", 
-            "logo": "http://archiveteam.org/images/8/8a/Archivetime.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic-cloudfront'><img src='http://archiveteam.org/images/8/8a/Archivetime.png' width='160'/></a>", 
-            "name": "twitpic-cloudfront-test", 
-            "repository": "XXX-https://github.com/ArchiveTeam/twitpic-cloudfront-grab", 
-            "title": "Quitpic Clownfront (Not public)"
-        },
-        {
-            "description": "Yahoo! is closing Qwiki. This phase is content discovery.", 
-            "lat_lng": [
-                -83, 
-                19
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/qwikidisco", 
-            "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/qwikidisco'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
-            "name": "qwikidisco", 
-            "repository": "https://github.com/ArchiveTeam/qwiki-discovery", 
-            "title": "Qwiki Discovery"
-        },
-        {
-            "description": "Yahoo! is closing Qwiki. This phase is content download.", 
-            "lat_lng": [
-                -83, 
-                20
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/qwiki", 
-            "logo": "http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/qwiki'><img src='http://archiveteam.org/images/1/10/Qwiki_Logo_June_2012.png' width='160'/></a>", 
-            "name": "qwiki", 
-            "repository": "https://github.com/ArchiveTeam/qwiki-grab", 
-            "title": "Qwiki"
         },
         {
             "description": "Don't click just yet!", 
