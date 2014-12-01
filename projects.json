@@ -1,5 +1,5 @@
 {
-    "auto_project": "twitpic2", 
+    "auto_project": "urlteam2", 
     "projects": [
         {
             "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
@@ -66,19 +66,6 @@
             "repository": "https://github.com/ArchiveTeam/viddy-grab", 
             "title": "Viddy (work in progress)"
         },
-        {
-            "description": "Don't click just yet!", 
-            "lat_lng": [
-                -4.8, 
-                24.2
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/jux", 
-            "logo": "http://archiveteam.org/images/6/6f/Jux_logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/jux'><img src='http://archiveteam.org/images/6/6f/Jux_logo.png' width='160'/></a>", 
-            "name": "jux", 
-            "repository": "https://github.com/ArchiveTeam/jux-grab", 
-            "title": "Jux (work in progress)"
-        }
     ], 
     "warrior": {
         "seesaw_version": "0.7.0"
