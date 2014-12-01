@@ -65,7 +65,7 @@
             "name": "viddy", 
             "repository": "https://github.com/ArchiveTeam/viddy-grab", 
             "title": "Viddy (work in progress)"
-        },
+        }
     ], 
     "warrior": {
         "seesaw_version": "0.7.0"
