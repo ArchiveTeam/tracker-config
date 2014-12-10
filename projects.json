@@ -1,5 +1,5 @@
 {
-    "auto_project": "urlteam2", 
+    "auto_project": "twitpic2", 
     "projects": [
         {
             "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
@@ -65,22 +65,9 @@
             "name": "viddy", 
             "repository": "https://github.com/ArchiveTeam/viddy-grab", 
             "title": "Viddy"
-        },
-        {
-            "description": "WIP Don't click just yet. ZipList is shutting down.", 
-            "lat_lng": [
-                -55, 
-                34
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/ziplist", 
-            "logo": "http://archiveteam.org/images/8/8b/Ziplistlogo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/ziplist'><img src='http://archiveteam.org/images/8/8b/Ziplistlogo.png'/></a>", 
-            "name": "ziplist", 
-            "repository": "https://github.com/ArchiveTeam/ziplist-grab", 
-            "title": "ZipList (Work in progress)"
         }
     ], 
     "warrior": {
-        "seesaw_version": "0.7.0"
+        "seesaw_version": "0.8.2"
     }
 }
