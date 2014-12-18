@@ -19,9 +19,12 @@
 
  
 PATH=/opt/bin:/opt/sbin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-DAEMON=/usr/local/nginx/sbin/nginx
+#DAEMON=/usr/local/nginx/sbin/nginx
+DAEMON=/usr/local/nginx-passenger-4.0.55/sbin/nginx
 NAME=nginx
 DESC=nginx
+
+DAEMON_OPTS='-c /etc/nginx/nginx.conf'
  
 test -x $DAEMON || exit 0
  
