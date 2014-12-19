@@ -54,17 +54,30 @@
             "title": "Halo"
         },
         {
-            "description": "Viddy is powering down.", 
+            "description": "Roon gets rooined.", 
             "lat_lng": [
-                5.8, 
-                13.2
+                40.8, 
+                80.2
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/viddy", 
-            "logo": "http://archiveteam.org/images/thumb/5/5a/Viddylogo.png/320px-Viddylogo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/viddy'><img src='http://archiveteam.org/images/thumb/5/5a/Viddylogo.png/320px-Viddylogo.png'/></a>", 
-            "name": "viddy", 
-            "repository": "https://github.com/ArchiveTeam/viddy-grab", 
-            "title": "Viddy"
+            "leaderboard": "http://tracker.archiveteam.org/roon", 
+            "logo": "http://archiveteam.org/images/c/c5/Roonlogo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/roon'><img src='http://archiveteam.org/images/c/c5/Roonlogo.png' width='160'/></a>", 
+            "name": "roon", 
+            "repository": "https://github.com/ArchiveTeam/roon-grab", 
+            "title": "Roon.io"
+        },
+        {
+            "description": "This is a test project for development. Running this project may cause a minor case of severe Warrior damage.", 
+            "lat_lng": [
+                -84, 
+                0
+            ], 
+            "leaderboard": "https://github.com/ArchiveTeam/", 
+            "logo": "http://archiveteam.org/images/thumb/f/f1/Seesaw_figure.png/640px-Seesaw_figure.png", 
+            "marker_html": "<a href='https://github.com/ArchiveTeam'><img src='http://archiveteam.org/images/thumb/f/f1/Seesaw_figure.png/640px-Seesaw_figure.png'/></a>", 
+            "name": "wpulltest", 
+            "repository": "https://github.com/ArchiveTeam/example-wpull-seesaw-project", 
+            "title": "Test Project"
         }
     ], 
     "warrior": {
