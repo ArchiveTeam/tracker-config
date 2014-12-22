@@ -54,17 +54,17 @@
             "title": "Halo"
         },
         {
-            "description": "Roon gets rooined.", 
+            "description": "Don't click yet. Description here.", 
             "lat_lng": [
                 40.8, 
                 80.2
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/roon", 
-            "logo": "http://archiveteam.org/images/c/c5/Roonlogo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/roon'><img src='http://archiveteam.org/images/c/c5/Roonlogo.png' width='160'/></a>", 
-            "name": "roon", 
-            "repository": "https://github.com/ArchiveTeam/roon-grab", 
-            "title": "Roon.io"
+            "leaderboard": "http://tracker.archiveteam.org/microsoft-clip-art", 
+            "logo": "http://archiveteam.org/images/thumb/3/3a/Clip_art_MC900305443.WMF.png/184px-Clip_art_MC900305443.WMF.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/microsoft-clip-art'><img src='http://archiveteam.org/images/thumb/3/3a/Clip_art_MC900305443.WMF.png/184px-Clip_art_MC900305443.WMF.png' width='160'/></a>", 
+            "name": "msclipart", 
+            "repository": "https://github.com/ArchiveTeam/microsoft-clip-art-grab", 
+            "title": "Microsoft Clip Art (Work in progress)"
         },
         {
             "description": "This is a test project for development. Running this project may cause a minor case of severe Warrior damage.", 
