@@ -54,7 +54,7 @@
             "title": "Halo"
         },
         {
-            "description": "Don't click yet. Description here.", 
+            "description": "Microsoft is phasing out its clip art collection.", 
             "lat_lng": [
                 40.8, 
                 80.2
@@ -64,20 +64,20 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/microsoft-clip-art'><img src='http://archiveteam.org/images/thumb/3/3a/Clip_art_MC900305443.WMF.png/184px-Clip_art_MC900305443.WMF.png' width='160'/></a>", 
             "name": "msclipart", 
             "repository": "https://github.com/ArchiveTeam/microsoft-clip-art-grab", 
-            "title": "Microsoft Clip Art (Work in progress)"
+            "title": "Microsoft Clip Art"
         },
         {
-            "description": "This is a test project for development. Running this project may cause a minor case of severe Warrior damage.", 
+            "description": "Downloading Nokia Memories", 
             "lat_lng": [
-                -84, 
-                0
+                40.8, 
+                80.2
             ], 
-            "leaderboard": "https://github.com/ArchiveTeam/", 
-            "logo": "http://archiveteam.org/images/thumb/f/f1/Seesaw_figure.png/640px-Seesaw_figure.png", 
-            "marker_html": "<a href='https://github.com/ArchiveTeam'><img src='http://archiveteam.org/images/thumb/f/f1/Seesaw_figure.png/640px-Seesaw_figure.png'/></a>", 
-            "name": "wpulltest", 
-            "repository": "https://github.com/ArchiveTeam/example-wpull-seesaw-project", 
-            "title": "Test Project"
+            "leaderboard": "http://tracker.archiveteam.org/nokiamemories", 
+            "logo": "http://archiveteam.org/images/4/48/Nokia_logo_1965.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/nokiamemories'><img src='http://archiveteam.org/images/4/48/Nokia_logo_1965.png' width='160'/></a>", 
+            "name": "nokiamemories", 
+            "repository": "https://github.com/ArchiveTeam/nokia-memories-grab", 
+            "title": "Nokia Memories"
         }
     ], 
     "warrior": {
