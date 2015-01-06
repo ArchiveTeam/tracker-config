@@ -1,5 +1,5 @@
 {
-    "auto_project": "twitpic2", 
+    "auto_project": "urlteam2", 
     "projects": [
         {
             "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
@@ -67,17 +67,17 @@
             "title": "Microsoft Clip Art"
         },
         {
-            "description": "Downloading Nokia Memories", 
+            "description": "Do not click yet", 
             "lat_lng": [
-                40.8, 
-                80.2
+                65.8, 
+                -30.2
             ], 
-            "leaderboard": "http://tracker.archiveteam.org/nokiamemories", 
-            "logo": "http://archiveteam.org/images/4/48/Nokia_logo_1965.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/nokiamemories'><img src='http://archiveteam.org/images/4/48/Nokia_logo_1965.png' width='160'/></a>", 
-            "name": "nokiamemories", 
-            "repository": "https://github.com/ArchiveTeam/nokia-memories-grab", 
-            "title": "Nokia Memories"
+            "leaderboard": "http://tracker.archiveteam.org/vstreamers", 
+            "logo": "http://archiveteam.org/images/d/d6/VStreamers-logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/vstreamers'><img src='http://archiveteam.org/images/d/d6/VStreamers-logo.png' width='160'/></a>", 
+            "name": "vstreamers", 
+            "repository": "https://github.com/ArchiveTeam/vstreamers-grab", 
+            "title": "vStreamers (work in progress)"
         }
     ], 
     "warrior": {
