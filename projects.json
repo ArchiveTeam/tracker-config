@@ -67,7 +67,7 @@
             "title": "Microsoft Clip Art"
         },
         {
-            "description": "Do not click yet", 
+            "description": "Downloading vStreamers", 
             "lat_lng": [
                 65.8, 
                 -30.2
@@ -77,7 +77,20 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/vstreamers'><img src='http://archiveteam.org/images/d/d6/VStreamers-logo.png' width='160'/></a>", 
             "name": "vstreamers", 
             "repository": "https://github.com/ArchiveTeam/vstreamers-grab", 
-            "title": "vStreamers (work in progress)"
+            "title": "vStreamers"
+        },
+        {
+            "description": "Don't click yet", 
+            "lat_lng": [
+                -91.78, 
+                13.25
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/brace", 
+            "logo": "http://archiveteam.org/images/b/bb/Bracelogo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/brace'><img src='http://archiveteam.org/images/b/bb/Bracelogo.png' width='160'/></a>", 
+            "name": "braceio", 
+            "repository": "https://github.com/ArchiveTeam/brace-grab", 
+            "title": "Brace.io (work in progress)"
         }
     ], 
     "warrior": {
