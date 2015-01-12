@@ -67,19 +67,6 @@
             "title": "Microsoft Clip Art"
         },
         {
-            "description": "Downloading vStreamers", 
-            "lat_lng": [
-                65.8, 
-                -30.2
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/vstreamers", 
-            "logo": "http://archiveteam.org/images/d/d6/VStreamers-logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/vstreamers'><img src='http://archiveteam.org/images/d/d6/VStreamers-logo.png' width='160'/></a>", 
-            "name": "vstreamers", 
-            "repository": "https://github.com/ArchiveTeam/vstreamers-grab", 
-            "title": "vStreamers"
-        },
-        {
             "description": "Don't click yet", 
             "lat_lng": [
                 -91.78, 
