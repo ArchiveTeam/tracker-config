@@ -67,7 +67,7 @@
             "title": "Microsoft Clip Art"
         },
         {
-            "description": "Don't click yet", 
+            "description": "Downloading Brace.io sites", 
             "lat_lng": [
                 -91.78, 
                 13.25
@@ -77,7 +77,7 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/brace'><img src='http://archiveteam.org/images/b/bb/Bracelogo.png' width='160'/></a>", 
             "name": "braceio", 
             "repository": "https://github.com/ArchiveTeam/brace-grab", 
-            "title": "Brace.io (work in progress)"
+            "title": "Brace.io"
         }
     ], 
     "warrior": {
