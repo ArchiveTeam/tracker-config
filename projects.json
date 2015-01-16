@@ -78,7 +78,34 @@
             "name": "braceio", 
             "repository": "https://github.com/ArchiveTeam/brace-grab", 
             "title": "Brace.io"
+        },
+        {
+            "description": "Don't click yet", 
+            "lat_lng": [
+                181, 
+                178
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/ovi-store", 
+            "logo": "http://archiveteam.org/images/7/7d/Ovi-store-icon.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/ovi-store'><img src='http://archiveteam.org/images/7/7d/Ovi-store-icon.png' width='160'/></a>", 
+            "name": "ovi-store", 
+            "repository": "https://github.com/ArchiveTeam/ovi-store-grab", 
+            "title": "Ovi Store (work in progress)"
+        },
+        {
+            "description": "Don't click yet", 
+            "lat_lng": [
+                41, 
+                39
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/inkblazers", 
+            "logo": "http://archiveteam.org/images/4/46/Inkblazerslogo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/inkblazers'><img src='http://archiveteam.org/images/4/46/Inkblazerslogo.png' width='160'/></a>", 
+            "name": "inkblazers", 
+            "repository": "https://github.com/ArchiveTeam/inkblazers-grab", 
+            "title": "Inkblazers (work in progress)"
         }
+
     ], 
     "warrior": {
         "seesaw_version": "0.8.2"
