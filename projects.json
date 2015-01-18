@@ -93,7 +93,7 @@
             "title": "Ovi Store (work in progress)"
         },
         {
-            "description": "Don't click yet", 
+            "description": "Downloading all the virtual ink from cyberspace.", 
             "lat_lng": [
                 41, 
                 39
@@ -103,7 +103,7 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/inkblazers'><img src='http://archiveteam.org/images/4/46/Inkblazerslogo.png' width='160'/></a>", 
             "name": "inkblazers", 
             "repository": "https://github.com/ArchiveTeam/inkblazers-grab", 
-            "title": "Inkblazers (work in progress)"
+            "title": "Inkblazers"
         }
 
     ], 
