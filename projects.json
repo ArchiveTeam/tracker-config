@@ -78,21 +78,7 @@
             "name": "ovi-store", 
             "repository": "https://github.com/ArchiveTeam/ovi-store-grab", 
             "title": "Ovi Store (work in progress)"
-        },
-        {
-            "description": "Downloading all the virtual ink from cyberspace.", 
-            "lat_lng": [
-                41, 
-                39
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/inkblazers", 
-            "logo": "http://archiveteam.org/images/4/46/Inkblazerslogo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/inkblazers'><img src='http://archiveteam.org/images/4/46/Inkblazerslogo.png' width='160'/></a>", 
-            "name": "inkblazers", 
-            "repository": "https://github.com/ArchiveTeam/inkblazers-grab", 
-            "title": "Inkblazers"
         }
-
     ], 
     "warrior": {
         "seesaw_version": "0.8.2"
