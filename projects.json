@@ -80,7 +80,7 @@
             "title": "Ovi Store"
         },
         {
-            "description": "Don't click yet. Downloading cobook.co", 
+            "description": "Downloading cobook.co", 
             "lat_lng": [
                 -74, 
                 30
@@ -90,7 +90,20 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/cobook'><img src='http://archiveteam.org/images/thumb/5/54/Cobook-logo.png/800px-Cobook-logo.png' width='160'/></a>", 
             "name": "cobook", 
             "repository": "https://github.com/ArchiveTeam/cobook-grab", 
-            "title": "Cobook (Work in progress)"
+            "title": "Cobook"
+        },
+        {
+            "description": "Downloading testflight.", 
+            "lat_lng": [
+                74, 
+                -30
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/testflight", 
+            "logo": "http://archiveteam.org/images/9/98/TestFlight-logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/testflight'><img src='http://archiveteam.org/images/9/98/TestFlight-logo.png' width='160'/></a>", 
+            "name": "testflight", 
+            "repository": "https://github.com/ArchiveTeam/testflight-grab", 
+            "title": "Testflight (work in progress)"
         }
     ], 
     "warrior": {
