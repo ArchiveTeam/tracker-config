@@ -1,5 +1,6 @@
 {
     "auto_project": "urlteam2", 
+    "broadcast_message": "For those running Ovi Store project, please reboot your warrior to stop any broken jobs. Thanks.",
     "projects": [
         {
             "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
@@ -103,7 +104,7 @@
             "marker_html": "<a href='http://tracker.archiveteam.org/testflight'><img src='http://archiveteam.org/images/9/98/TestFlight-logo.png' width='160'/></a>", 
             "name": "testflight", 
             "repository": "https://github.com/ArchiveTeam/testflight-grab", 
-            "title": "Testflight (work in progress)"
+            "title": "Testflight"
         }
     ], 
     "warrior": {
