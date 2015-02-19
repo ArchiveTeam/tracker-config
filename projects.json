@@ -28,19 +28,6 @@
             "title": "URLTeam 2"
         },
         {
-            "description": "Don't click just yet!", 
-            "lat_lng": [
-                46.8, 
-                8.2
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/panoramio", 
-            "logo": "http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/panoramio'><img src='http://archiveteam.org/images/thumb/1/17/Panoramio_logo.jpg/799px-Panoramio_logo.jpg' width='160'/></a>", 
-            "name": "panoramio", 
-            "repository": "https://github.com/ArchiveTeam/panoramio-grab", 
-            "title": "Panoramio (Work in progress)"
-        },
-        {
             "description": "Downloading all the read-only data from Halo.", 
             "lat_lng": [
                 0.8, 
@@ -52,19 +39,6 @@
             "name": "halo", 
             "repository": "https://github.com/ArchiveTeam/halo-grab", 
             "title": "Halo"
-        },
-        {
-            "description": "Microsoft is phasing out its clip art collection.", 
-            "lat_lng": [
-                40.8, 
-                80.2
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/microsoft-clip-art", 
-            "logo": "http://archiveteam.org/images/thumb/3/3a/Clip_art_MC900305443.WMF.png/184px-Clip_art_MC900305443.WMF.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/microsoft-clip-art'><img src='http://archiveteam.org/images/thumb/3/3a/Clip_art_MC900305443.WMF.png/184px-Clip_art_MC900305443.WMF.png' width='160'/></a>", 
-            "name": "msclipart", 
-            "repository": "https://github.com/ArchiveTeam/microsoft-clip-art-grab", 
-            "title": "Microsoft Clip Art"
         },
         {
             "description": "Downloading store.ovi.com", 
