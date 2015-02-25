@@ -54,19 +54,6 @@
             "title": "Ovi Store"
         },
         {
-            "description": "Downloading cobook.co", 
-            "lat_lng": [
-                -74, 
-                30
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/cobook", 
-            "logo": "http://archiveteam.org/images/thumb/5/54/Cobook-logo.png/800px-Cobook-logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/cobook'><img src='http://archiveteam.org/images/thumb/5/54/Cobook-logo.png/800px-Cobook-logo.png' width='160'/></a>", 
-            "name": "cobook", 
-            "repository": "https://github.com/ArchiveTeam/cobook-grab", 
-            "title": "Cobook"
-        },
-        {
             "description": "Downloading testflight.", 
             "lat_lng": [
                 74, 
