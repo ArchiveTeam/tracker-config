@@ -2,19 +2,6 @@
     "auto_project": "urlteam2", 
     "projects": [
         {
-            "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
-            "lat_lng": [
-                50.71,
-                -74.01
-            ],
-            "leaderboard": "http://tracker.archiveteam.org/twitpic2",
-            "logo": "http://archiveteam.org/images/b/b3/Quitpic.png",
-            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic2/'><img src='http://archiveteam.org/images/b/b3/Quitpic.png' width='160'/></a>",
-            "name": "twitpic2",
-            "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
-            "title": "TwitPic Phase 3"
-        },
-        {
             "description": "URL shorteners are a ticking timebomb.", 
             "lat_lng": [
                 0, 
@@ -27,6 +14,21 @@
             "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
             "title": "URLTeam 2"
         },
+        {
+            "description": "Downloading testflight.", 
+            "lat_lng": [
+                74, 
+                -30
+            ], 
+            "leaderboard": "http://tracker.archiveteam.org/testflight", 
+            "logo": "http://archiveteam.org/images/9/98/TestFlight-logo.png", 
+            "marker_html": "<a href='http://tracker.archiveteam.org/testflight'><img src='http://archiveteam.org/images/9/98/TestFlight-logo.png' width='160'/></a>", 
+            "name": "testflight", 
+            "repository": "https://github.com/ArchiveTeam/testflight-grab", 
+            "title": "Testflight"
+        },
+
+
         {
             "description": "Downloading all the read-only data from Halo.", 
             "lat_lng": [
@@ -54,17 +56,17 @@
             "title": "Ovi Store"
         },
         {
-            "description": "Downloading testflight.", 
+            "description": "TwitPic is--I'm not even sure anymore... Phase 3: grab all the things properly.",
             "lat_lng": [
-                74, 
-                -30
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/testflight", 
-            "logo": "http://archiveteam.org/images/9/98/TestFlight-logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/testflight'><img src='http://archiveteam.org/images/9/98/TestFlight-logo.png' width='160'/></a>", 
-            "name": "testflight", 
-            "repository": "https://github.com/ArchiveTeam/testflight-grab", 
-            "title": "Testflight"
+                50.71,
+                -74.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/twitpic2",
+            "logo": "http://archiveteam.org/images/b/b3/Quitpic.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/twitpic2/'><img src='http://archiveteam.org/images/b/b3/Quitpic.png' width='160'/></a>",
+            "name": "twitpic2",
+            "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
+            "title": "TwitPic Phase 3"
         }
     ], 
     "warrior": {
