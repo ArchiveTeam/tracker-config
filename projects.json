@@ -1,5 +1,5 @@
 {
-    "auto_project": "urlteam2", 
+    "auto_project": "testflight", 
     "projects": [
         {
             "description": "URL shorteners are a ticking timebomb.", 
@@ -67,6 +67,19 @@
             "name": "twitpic2",
             "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
             "title": "TwitPic Phase 3"
+        },
+        {
+            "description": "Please do not click yet.",
+            "lat_lng": [
+                10.71,
+                44.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/bloggerdisco/",
+            "logo": "http://archiveteam.org/images/thumb/6/64/Blogger-logo.png/800px-Blogger-logo.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/bloggerdisco/'><img src='http://archiveteam.org/images/thumb/6/64/Blogger-logo.png/800px-Blogger-logo.png' width='160'/></a>",
+            "name": "bloggerdisco",
+            "repository": "https://github.com/ArchiveTeam/blogger-discovery",
+            "title": "Blogger Discovery (Work in progress)"
         }
     ], 
     "warrior": {
