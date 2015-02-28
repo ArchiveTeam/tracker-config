@@ -1,5 +1,5 @@
 {
-    "auto_project": "testflight", 
+    "auto_project": "urlteam2", 
     "projects": [
         {
             "description": "URL shorteners are a ticking timebomb.", 
@@ -13,19 +13,6 @@
             "name": "urlteam2", 
             "repository": "https://github.com/ArchiveTeam/terroroftinytown-client-grab", 
             "title": "URLTeam 2"
-        },
-        {
-            "description": "Downloading testflight.", 
-            "lat_lng": [
-                74, 
-                -30
-            ], 
-            "leaderboard": "http://tracker.archiveteam.org/testflight", 
-            "logo": "http://archiveteam.org/images/9/98/TestFlight-logo.png", 
-            "marker_html": "<a href='http://tracker.archiveteam.org/testflight'><img src='http://archiveteam.org/images/9/98/TestFlight-logo.png' width='160'/></a>", 
-            "name": "testflight", 
-            "repository": "https://github.com/ArchiveTeam/testflight-grab", 
-            "title": "Testflight"
         },
 
 
