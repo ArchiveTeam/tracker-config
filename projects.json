@@ -26,7 +26,7 @@
             "name": "bloggerdisco",
             "repository": "https://github.com/ArchiveTeam/blogger-discovery",
             "title": "Blogger Discovery"
-        }
+        },
 
 
         {
@@ -67,7 +67,7 @@
             "name": "twitpic2",
             "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
             "title": "TwitPic Phase 3"
-        },
+        }
     ], 
     "warrior": {
         "seesaw_version": "0.8.2"
