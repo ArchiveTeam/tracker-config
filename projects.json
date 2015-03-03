@@ -15,7 +15,7 @@
             "title": "URLTeam 2"
         },
         {
-            "description": "Discovering Blogger blogs. **Please use concurrency setting at 1 to avoid getting captcha.** ",
+            "description": "Discovering Blogger blogs. \u2731\u2731Please use concurrency setting at 1 to avoid getting captcha. This project may take several hours per item.\u2731\u2731 ",
             "lat_lng": [
                 10.71,
                 44.01
@@ -67,6 +67,19 @@
             "name": "twitpic2",
             "repository": "https://github.com/ArchiveTeam/twitpic-grab2",
             "title": "TwitPic Phase 3"
+        },
+        {
+            "description": "Don't click yet.",
+            "lat_lng": [
+                30.71,
+                94.01
+            ],
+            "leaderboard": "http://tracker.archiveteam.org/rapidsharedisco",
+            "logo": "http://archiveteam.org/images/9/9d/RapidShare-logo.png",
+            "marker_html": "<a href='http://tracker.archiveteam.org/rapidsharedisco/'><img src='http://archiveteam.org/images/9/9d/RapidShare-logo.png'/></a>",
+            "name": "rapidsharedisco",
+            "repository": "https://github.com/ArchiveTeam/rapidshare-discovery",
+            "title": "Rapidshare Discovery (work in progress)"
         }
     ], 
     "warrior": {
